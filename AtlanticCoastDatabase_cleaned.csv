@@ -1,0 +1,937 @@
+Site,Latitude,Longitude,Material,δ13C,Calibrated age range,RSL (m),Error (± m),Reference,Evidence,14C age,14C st dev
+Eastern Maine,,,,,,,,,,,
+Index Points,,,,,,,,,,,
+Sanborn Cove,44.683,67.406,HHM Plant,-28,5661-5319,-4.90,0.55,Gehrels (1999),1,4795,80
+Sanborn Cove,44.683,67.406,S. alt,,4822-4422,-3.97,0.54,Gehrels (1999),1,4075,75
+Sanborn Cove,44.683,67.406,S. alt,-15.7,3370-2996,-2.88,0.54,Gehrels (1999),1,3010,70
+Sanborn Cove,44.683,67.406,Plant frag,-28.7,2845-2349,-1.68,0.54,Gehrels (1999),1,2540,110
+Sanborn Cove,44.683,67.406,Twig,-30,1230-786,-0.49,0.55,Gehrels (1999),1,1070,90
+Sanborn Cove,44.683,67.406,Twig,-28.4,308-0,-0.53,0.55,Gehrels (1999),1,195,45
+Sanborn Cove,44.683,67.406,Plant frag,-26.5,1284-972,-0.74,0.55,Gehrels (1999),1,1210,80
+Sanborn Cove,44.683,67.406,Plant frag,,1541-1313,-0.99,0.55,Gehrels (1999),1,1540,60
+Sanborn Cove,44.683,67.406,Plant frag,-28.4,2328-2010,-1.74,0.55,Gehrels (1999),1,2170,50
+Sanborn Cove,44.683,67.406,Plant frag,,2308-1950,-1.87,0.55,Gehrels (1999),1,2120,60
+Gouldsboro,44.429,68.011,HM peat,-29.8,4818-4296,-4.99,0.45,Gehrels et al. (1996),1,4030,70
+Gouldsboro,44.429,68.011,HM peat,-26.3,3063-2729,-1.78,0.45,Gehrels et al. (1996),1,2730,80
+Gouldsboro,44.429,68.011,HHM peat,-24.6,4088-3650,-4.05,0.45,Gehrels et al. (1996),3,3580,75
+Jasper Beach,44.629,67.382,HM peat,-24,3557-3209,-2.87,0.45,Gehrels and Belknap (1993),1,3150,70
+Jasper Beach,44.629,67.382,HM peat,-26,3253-2795,-2.49,0.45,Gehrels and Belknap (1993),1,2880,80
+Sanborn Cove,44.683,67.406,HM peat,-27,4425-4091,-4.50,0.45,Gehrels and Belknap (1993),1,3860,60
+Sanborn Cove,44.683,67.406,HM peat,-26,3137-2759,-2.42,0.45,Gehrels and Belknap (1993),1,2800,70
+Gouldsboro,44.429,68.011,HHM peat,-16.2,2716-2208,-1.38,0.45,Gehrels et al. (1996),1,2380,70
+Gouldsboro,44.429,68.011,HHM peat,-26.3,1288-984,-0.67,0.45,Gehrels et al. (1996),1,1230,70
+Addison,44.608,67.753,HM peat,-21.1,3345-2927,-3.04,1.10,Belknap et al. (1989),3,2960,75
+Addison,44.608,67.753,HM peat,-23.4,3963-3405,-3.49,1.10,Belknap et al. (1989),3,3415,110
+Addison,44.608,67.753,HHM peat,-18.5,2860-2366,-1.80,1.10,Belknap et al. (1989),3,2595,80
+Addison,44.608,67.753,HHM peat,-17.9,3059-2733,-2.40,1.10,Belknap et al. (1989),3,2730,75
+Addison,44.608,67.753,HM peat,-18.8,3066-2792,-3.00,1.10,Belknap et al. (1989),3,2815,50
+Addison,44.608,67.753,HM peat,-22.8,521-295,-0.67,1.10,Belknap et al. (1989),3,365,70
+Addison,44.608,67.753,HM peat,-28.2,1558-1296,-1.22,1.10,Belknap et al. (1989),3,1525,75
+Addison,44.608,67.753,HM peat,-27.1,1296-990,-1.53,1.10,Belknap et al. (1989),3,1245,70
+Addison,44.608,67.753,HM peat,,2311-2001,-1.70,1.10,Belknap et al. (1989),3,2150,50
+Addison,44.608,67.753,HM peat,-22.4,3062-2758,-1.97,1.10,Belknap et al. (1989),3,2780,65
+Gouldsboro,44.430,68.010,HM peat,,2954-2754,-2.34,0.94,Belknap et al. (1989),3,2740,55
+Gouldsboro,44.430,68.010,HM peat,-23.1,1821-1565,-0.80,0.94,Belknap et al. (1989),3,1775,50
+Gouldsboro,44.430,68.010,HM peat,-27.6,2759-2467,-1.55,0.94,Belknap et al. (1989),3,2550,50
+Gouldsboro,44.430,68.010,HM peat,-18.2,3396-3040,-3.11,0.94,Belknap et al. (1989),3,3045,65
+Sanborn Cove,44.683,67.406,S. alt,-19.4,654-324,-1.18,0.54,Gehrels (1999),1,490,70
+Sanborn Cove,44.683,67.406,S. alt + S. rob,-16.8,1230-786,-1.72,0.54,Gehrels (1999),1,1070,90
+Gouldsboro,44.429,68.011,HHM peat,-25.1,653-519,-0.61,0.45,Gehrels et al. (1996),3,570,50
+Gouldsboro,44.429,68.011,HHM peat,-25.7,2123-1827,-1.25,0.45,Gehrels et al. (1996),3,2010,60
+Gouldsboro,44.429,68.011,HM peat,16.8,2696-2150,-1.43,0.45,Gehrels et al. (1996),3,2325,65
+Jasper Beach,44.629,67.382,HM peat,-27,3716-2978,-4.30,0.45,Gehrels and Belknap (1993),1,3170,140
+Sanborn Cove,44.683,67.406,HM peat,-23,3446-3084,-3.32,0.45,Gehrels and Belknap (1993),1,3090,60
+Jasper Beach,44.629,67.382,HM peat,,4829-4583,-4.44,0.45,Gehrels and Belknap (1993),1,4165,30
+Addison,44.608,67.753,HM peat,-23,4853-4299,-3.94,1.10,Belknap et al. (1989),3,4095,100
+Addison,44.608,67.753,HM peat,-26.6,3557-3255,-3.26,1.10,Belknap et al. (1989),3,3170,60
+Addison,44.608,67.753,HM peat,-26.9,2041-1521,-1.62,1.10,Belknap et al. (1989),3,1840,110
+Gouldsboro,44.430,68.010,HM peat,-16.6,4523-4239,-4.83,0.94,Belknap et al. (1989),3,3940,50
+,,,,,,,,,,,
+Terrestrial Limiting,,,,,,,,,,,
+Gouldsboro,44.430,68.020,Fresh peat,-29.4,11251-10801,-3.53,0.17,Gehrels et al. (1996),3,9730,60
+Gouldsboro,44.430,68.020,Fresh peat,-27.6,11121-10561,-2.05,0.17,Gehrels et al. (1996),3,9490,80
+Gouldsboro,44.430,68.010,Marsh peat,,1515-1301,0.50,0.85,Belknap et al. (1989),3,1490,45
+Gouldsboro,44.430,68.010,Wood,,1512-1290,1.29,0.85,Belknap et al. (1989),2,1465,50
+,,,,,,,,,,,
+Southern Maine,,,,,,,,,,,
+Index Points,,,,,,,,,,,
+Phippsburg,43.752,69.822,LM peat,-19.1,5893-5601,-6.90,0.41,Gehrels et al. (1996),1,4980,60
+Phippsburg,43.752,69.822,HM peat,-15.9,5039-4581,-3.09,0.40,Gehrels et al. (1996),1,4270,70
+Phippsburg,43.752,69.822,HHM peat,,5441-4857,-4.13,0.40,Gehrels et al. (1996),1,4480,95
+Phippsburg,43.752,69.822,HHM peat,,4147-3389,-3.57,0.41,Gehrels et al. (1996),1,3470,150
+Phippsburg,43.752,69.822,HHM peat,,3830-3584,-2.33,0.41,Gehrels et al. (1996),1,3435,45
+Wells,43.292,70.573,HM peat,,6171-5663,-5.85,0.39,Kelley et al. (1995),3,5135,70
+Wells,43.292,70.573,HM peat,,5274-4842,-5.09,0.39,Kelley et al. (1995),3,4380,55
+Phippsburg,43.742,69.832,LM peat,-25.7,5896-5494,-6.49,0.41,Gehrels et al. (1996),1,4945,75
+Phippsburg,43.752,69.822,HM peat,-15.4,1053-745,-0.62,0.40,Gehrels et al. (1996),1,990,60
+Phippsburg,43.742,69.832,HM peat,,3060-2754,-1.71,0.40,Gehrels et al. (1996),1,2770,65
+Morse River,43.752,69.822,HM peat,-23,3211-2797,-2.00,0.84,Belknap et al. (1989),3,2865,70
+Morse River,43.752,69.822,HM peat,-18.9,286-0,-1.00,0.84,Belknap et al. (1989),3,155,45
+Morse River,43.752,69.822,HM peat,-17,2759-2367,-2.91,0.84,Belknap et al. (1989),3,2540,55
+Morse River,43.752,69.822,HHM peat,-17.4,653-503,-1.49,0.84,Belknap et al. (1989),3,540,60
+Morse River,43.752,69.822,HM peat,-18.6,1310-1074,-1.48,0.84,Belknap et al. (1989),3,1305,60
+Morse River,43.752,69.822,HHM peat,-19,1554-1286,-1.85,0.84,Belknap et al. (1989),3,1505,80
+Morse River,43.752,69.822,LM peat,-18.7,2305-1949,-1.48,1.08,Belknap et al. (1989),3,2115,50
+Penobscot Bay,44.176,68.825,HM peat,-19,2451-1821,-1.51,0.94,Belknap et al. (1989),3,2145,125
+Penobscot Bay,44.176,68.825,HM peat,-27.7,3863-3079,-2.26,0.94,Belknap et al. (1989),3,3255,150
+Wells,43.292,70.573,LM peat,,2350-2066,-1.34,0.69,Kelley et al. (1995),3,2225,60
+Wells,43.292,70.573,HM peat,,3447-3063,-2.60,0.39,Kelley et al. (1995),3,3065,75
+Wells,43.292,70.573,LM peat,,4080-3704,-2.88,0.69,Gehrels et al. (1996),1,3585,60
+Wells,43.292,70.573,HM peat,,2104-1876,-1.34,0.39,Kelley et al. (1995),3,2010,40
+Wells,43.340,70.541,HM peat,,489-155,-0.73,0.39,Gehrels et al. (1996),3,300,50
+Wells,43.340,70.541,HM peat,,1168-924,-1.27,0.39,Gehrels et al. (1996),3,1090,50
+Wells,43.340,70.541,LM peat,,5265-4729,-2.23,0.69,Gehrels et al. (1996),1,4335,60
+Wells,43.292,70.573,HM peat,,1516-1290,-0.95,0.39,Kelley et al. (1995),3,1470,55
+Wells,43.292,70.573,HM peat,,3445-3079,-1.56,0.39,Kelley et al. (1995),3,3080,70
+Wells,43.292,70.573,HM peat,,4424-4098,-3.14,0.39,Kelley et al. (1995),3,3865,55
+Wells,43.292,70.573,HM peat,,1361-1145,-1.17,0.39,Kelley et al. (1995),3,1345,55
+Wells,43.292,70.573,LM peat,,1816-1550,-0.96,0.69,Kelley et al. (1995),3,1755,55
+Wells,43.292,70.573,LM peat,,2740-2362,-1.85,0.69,Kelley et al. (1995),3,2495,80
+Wells,43.292,70.573,HM peat,,4404-3982,-4.19,0.39,Kelley et al. (1995),3,3780,55
+Wells,43.292,70.573,HM peat,,3467-3081,-2.24,0.39,Kelley et al. (1995),3,3105,70
+Wells,43.292,70.573,HM peat,,4226-3898,-2.92,0.39,Kelley et al. (1995),3,3705,50
+Wells,43.292,70.573,HHM peat,,4871-4539,-3.79,0.39,Kelley et al. (1995),3,4220,60
+Wells,43.292,70.573,Sp,,1046-744,-0.67,0.38,Kelley et al. (1995),2,980,55
+Wells,43.292,70.573,Sp,,2303-1929,-1.58,0.38,Kelley et al. (1995),2,2100,55
+Wells,43.292,70.573,Sp,,2749-2365,-2.38,0.39,Kelley et al. (1995),2,2520,60
+Wells,43.292,70.573,Sp,,3964-3638,-3.01,0.39,Kelley et al. (1995),2,3510,60
+Wells,43.292,70.573,Saltmarsh peat,-25.4,492-0,-0.53,0.43,Gehrels et al. (2002),1,270,60
+Wells,43.292,70.573,Saltmarsh peat,,633-319,-0.60,0.43,Gehrels et al. (2002),1,465,60
+Wells,43.292,70.573,Saltmarsh peat,-22.8,900-672,-0.68,0.43,Gehrels et al. (2002),1,825,45
+Wells,43.292,70.573,Saltmarsh peat,,1055-795,-0.77,0.43,Gehrels et al. (2002),1,1020,55
+Wells,43.292,70.573,Saltmarsh peat,-13.5,1168-930,-0.82,0.43,Gehrels et al. (2002),1,1105,45
+Wells,43.292,70.573,Saltmarsh peat,-25.4,1228-932,-0.88,0.43,Gehrels et al. (2002),1,1140,60
+Phippsburg,43.752,69.822,HM peat,,2960-2544,-1.89,0.40,Gehrels et al. (1996),1,2675,70
+Phippsburg,43.752,69.822,HM peat,-17.1,4400-3928,-3.03,0.41,Gehrels et al. (1996),1,3760,60
+Damariscotta,43.964,69.571,HHM peat,-27.8,7413-7021,-15.31,0.40,Gehrels et al. (1996),3,6295,55
+Wells,43.292,70.573,BM peat,,4967-4617,-3.60,0.39,Gehrels et al. (1996),1,4255,55
+Wells,43.292,70.573,BM peat,-25.7,4965-4539,-2.95,0.38,Gehrels et al. (1996),1,4235,70
+Wells,43.292,70.573,BM peat,,4815-3927,-2.80,0.40,Gehrels et al. (1996),1,3900,145
+Wells,43.292,70.573,BM peat,,3680-3362,-2.90,0.39,Gehrels et al. (1996),1,3265,70
+Wells,43.292,70.573,BM peat,,3700-3446,-1.75,0.39,Gehrels et al. (1996),1,3340,55
+Wells,43.292,70.573,BM peat,,5591-5319,-4.15,0.39,Gehrels et al. (1996),1,4735,70
+Wells,43.340,70.541,LM peat,,966-330,-0.36,0.76,Kelley et al. (1995),1,705,165
+,,,,,,,,,,,
+Marine Limiting,,,,,,,,,,,
+Kennebec River,43.701,69.824,M. edu,,8104-7634,-25.62,3.02,Barnhardt et al. (1995),4,7490,90
+Kennebec River,43.701,69.824,M. edu,,7900-7514,-25.62,3.02,Barnhardt et al. (1995),4,7310,70
+Kennebec River,43.707,69.794,M. bal,,9379-8977,-26.62,3.02,Barnhardt et al. (1995),4,8610,40
+Kennebec River,43.707,69.794,M. bal,,9456-9068,-26.62,3.02,Barnhardt et al. (1995),4,8710,35
+Saco Bay,43.533,70.217,A. isl,,488-146,-54.31,3.02,Kelley et al. (1992),4,785,35
+Saco Bay,43.533,70.217,H. arc,,6624-5878,-51.51,3.02,Kelley et al. (1992),4,5915,155
+Cape Small,43.700,69.767,M. are,,9998-9310,-22.61,3.02,Kelley et al. (1992),4,9000,100
+Cape Small,43.700,69.767,M. are,,10577-10191,-22.71,3.02,Kelley et al. (1992),4,9630,75
+Cape Small,43.700,69.767,M. mod,,10646-10230,-22.91,3.02,Kelley et al. (1992),4,9700,65
+Cape Small,43.700,69.767,M. are,,10220-9576,-24.71,3.02,Kelley et al. (1992),4,9260,100
+Cape Small,43.700,69.767,M. edu,,8962-8416,-22.86,3.02,Kelley et al. (1992),4,8250,80
+Cape Small,43.700,69.767,M. are,,10171-9623,-23.91,3.02,Kelley et al. (1992),4,9235,60
+Cape Small,43.700,69.767,M. are,,10091-9465,-24.26,3.02,Kelley et al. (1992),4,9090,95
+Cape Small,43.700,69.767,M. are,,10216-9550,-24.36,3.02,Kelley et al. (1992),4,9250,110
+Cape Small,43.700,69.767,M. are,,7904-7438,-24.51,3.02,Kelley et al. (1992),4,7270,105
+Cape Small,43.683,69.917,A. isl,,914-636,-37.91,3.02,Kelley et al. (1992),4,1300,35
+Cape Small,43.683,69.917,M. are,,2326-1924,-39.01,3.02,Kelley et al. (1992),4,2570,50
+Cape Small,43.683,69.917,M. are,,3161-2049,-42.11,3.02,Kelley et al. (1992),4,2950,210
+Cape Small,43.800,69.850,A. isl,,8974-8440,-46.11,3.02,Kelley et al. (1992),4,8270,75
+Casco Bay,43.717,70.167,M. are,,10089-9519,-24.11,3.02,Kelley et al. (1992),4,9130,70
+Penobscot Bay,44.414,68.857,M. are,,9487-9037,-27.40,3.02,Barnhardt et al. (1995),4,8730,70
+Penobscot Bay,44.414,68.857,M. are,,9484-9058,-27.40,3.02,Barnhardt et al. (1995),4,8730,60
+Fox Island,44.119,68.869,M. are,2,6455-5911,-11.25,0.80,Belknap et al. (1989),4,5880,105
+Fox Island,44.119,68.869,M. are,1.6,5975-5453,-7.60,0.80,Belknap et al. (1989),4,5430,100
+,,,,,,,,,,,
+Terrestrial Limiting,,,,,,,,,,,
+Penobscot Bay,44.176,68.825,Wood,-26.3,4780-3484,-0.52,0.80,Belknap et al. (1989),2,3700,200
+Wells,43.320,70.580,stump,,5313-5051,-1.23,0.26,Kelley et al. (1995),2,4535,35
+Wells,43.320,70.580,stump,,3574-3390,-1.23,0.26,Kelley et al. (1995),2,3260,40
+Wells,43.320,70.580,white pine stump,,3559-2757,2.83,0.73,Bloom (1963),2,2980,180
+Wells,43.320,70.580,white pine stump,,3436-2366,3.90,0.73,Bloom (1963),2,2810,200
+Wells,43.320,70.580,wood,,5309-4887,-2.06,0.16,Kelley et al. (1995),2,4480,60
+,,,,,,,,,,,
+Northern Massacusetts,,,,,,,,,,,
+Index Points,,,,,,,,,,,
+Romney Marsh,42.428,70.989,Jg and Sp,-18,3376-3080,-2.52,0.41,Donnelly (2006),2,3050,50
+Romney Marsh,42.428,70.989,Ds,-15,3328-2948,-2.33,0.41,Donnelly (2006),2,2950,60
+Romney Marsh,42.428,70.989,"Jg, Sr and Sp",-23.8,1927-1727,-1.38,0.40,Donnelly (2006),2,1900,40
+Romney Marsh,42.428,70.989,Jg and Sp,-20.8,468-0,-0.73,0.40,Donnelly (2006),2,260,50
+Romney Marsh,42.428,70.989,Sp,-15.7,1058-804,-0.95,0.40,Donnelly (2006),2,1040,40
+Romney Marsh,42.428,70.989,Sp,-14.7,2744-2366,-1.94,0.40,Donnelly (2006),2,2510,50
+Boston,42.500,71.100,Salt marsh peat,,2854-2348,-1.40,1.13,Kaye and Barghoorn (1964),3,2550,115
+Plum Island,42.725,70.856,Salt marsh rhizome,-12.4,780-682,-1.12,0.84,Kirwan et al (2011),3,815,30
+Plum Island,42.725,70.856,Salt marsh rhizome,,3158-2780,-2.94,0.84,Kirwan et al (2011),3,2830,70
+Plum Island,42.725,70.856,Salt marsh peat,-17.3,5895-5662,-5.97,0.84,Kirwan et al (2011),3,5030,35
+Plum Island,42.745,70.831,Ds,-11.6,552-506,-1.37,0.84,Kirwan et al (2011),1,510,25
+Plum Island,42.745,70.831,Salt marsh rhizome,-14.2,4418-4246,-3.13,1.00,Kirwan et al (2011),3,3900,30
+Plum Island,42.744,70.826,Salt marsh rhizome,-12.4,3831-3635,-2.4,1.00,Kirwan et al (2011),3,3450,35
+Plum Island,42.746,70.823,Ds,-12.2,547-482,-1.22,0.84,Kirwan et al (2011),1,475,35
+Plum Island,42.739,70.839,Salt marsh rhizome,-12.5,499-316,-1.05,0.84,Kirwan et al (2011),3,360,30
+Plum Island,42.739,70.839,Salt marsh rhizome,-11.9,1256-1059,-0.66,1.00,Kirwan et al (2011),3,1210,30
+Plum Island,42.739,70.839,Salt marsh rhizome,-12.4,1687-1418,-1.16,1.00,Kirwan et al (2011),3,1650,30
+Plum Island,42.739,70.839,Salt marsh rhizome,-12.4,2310-2130,-1.88,1.00,Kirwan et al (2011),3,2190,25
+Plum Island,42.729,70.839,Salt marsh rhizome,-11.2,273-0,-0.66,0.95,Kirwan et al (2011),3,125,30
+Plum Island,42.743,70.840,Salt marsh rhizome,-11.8,924-773,-1.02,0.84,Kirwan et al (2011),3,925,30
+Plum Island,42.719,70.820,Ds,-13.4,506-324,-1.49,0.77,Kirwan et al (2011),1,385,25
+Plum Island,42.732,70.840,Salt marsh rhizome,-12.4,279-0,-0.44,0.95,Kirwan et al (2011),3,130,35
+Plum Island,42.729,70.823,Ds,-11.9,451-154,-0.88,0.84,Kirwan et al (2011),1,275,30
+Plum Island,42.729,70.823,Ds,-13.7,535-315,-1.74,0.84,Kirwan et al (2011),1,415,60
+,,,,,,,,,,,
+,,,,,,,,,,,
+Marine Limiting,,,,,,,,,,,
+Boston,42.351,71.075,Estuarine Silt,,5567-4727,-7.66,0.27,Kaye and Barghoorn (1964),3,4450,130
+Jeffreys Ledge,42.640,70.450,Marine shells,,4960-4540,-58.05,3.18,Oldale et al. (1993),3,4660,65
+Jeffreys Ledge,42.655,70.415,Marine shells,,8027-7673,-61.06,3.19,Oldale et al. (1993),3,7500,75
+,,,,,,,,,,,
+Terrestrial Limiting,,,,,,,,,,,
+Boston,42.346,71.080,Sedge peat,,4784-3878,-2.95,0.26,Kaye and Barghoorn (1964),3,3850,130
+Boston,42.351,71.075,Fresh peat,,6729-6021,-7.12,0.27,Kaye and Barghoorn (1964),3,5600,140
+Neponset River,42.270,71.050,Undiff peat,,1387-989,2.04,0.96,Redfield (1967),3,1310,95
+Neponset River,42.270,71.050,Undiff peat,,1517-1017,1.74,0.96,Redfield (1967),3,1360,105
+Neponset River,42.270,71.050,Undiff peat,,2034-1542,1.43,0.96,Redfield (1967),3,1860,100
+Neponset River,42.270,71.050,Undiff peat,,2660-1648,1.31,0.96,Redfield (1967),3,2100,200
+Neponset River,42.270,71.050,Undiff peat,,3381-2365,0.70,0.96,Redfield (1967),3,2790,200
+Neponset River,42.270,71.050,Undiff peat,,3823-2793,0.22,0.96,Redfield (1967),3,3110,200
+Boston,42.400,71.100,Fresh peat,,7669-5315,-6.33,0.27,Redfield and Rubin (1962),3,5717,550
+Gloucester Point,42.750,70.800,Undiff peat,,2763-2185,0.80,0.95,Newman et al. (1980),3,2450,110
+Gloucester Point,42.750,70.800,Undiff peat,,4226-3482,-0.95,0.95,Newman et al. (1980),3,3550,130
+Gloucester Point,42.750,70.800,Undiff peat,,3920-3364,-0.60,0.95,Newman et al. (1980),3,3375,120
+Gloucester Point,42.750,70.800,Undiff peat,,4377-3595,-1.56,0.95,Newman et al. (1980),3,3625,125
+Gloucester Point,42.750,70.800,Undiff peat,,5277-4419,-2.49,0.95,Newman et al. (1980),3,4225,135
+Gloucester Point,42.750,70.800,Undiff peat,,5912-5324,-5.20,0.95,Newman et al. (1980),3,4900,130
+Gloucester Point,42.750,70.800,Undiff peat,,7464-6798,-10.09,0.96,Newman et al. (1980),3,6280,150
+,,,,,,,,,,,
+Southern Massachusetts,,,,,,,,,,,
+Index Points,,,,,,,,,,,
+Barnstable,41.710,70.370,Spartina peat,,4496-2284,-6.04,1.34,Redfield and Rubin (1962),2,3400,300
+Barnstable,41.700,70.360,Spartina peat,,3556-2340,-3.61,1.34,Redfield and Rubin (1962),2,2800,250
+Barnstable,41.700,70.360,Spartina peat,,4801-3391,-6.48,1.34,Redfield and Rubin (1962),2,3660,250
+Barnstable,41.730,70.300,Salt peat,,1518-1150,-2.06,1.12,Stuiver et al. (1963),3,1400,80
+Barnstable,41.730,70.300,Salt peat,,2451-1905,-3.83,1.12,Stuiver et al. (1963),3,2200,100
+Centerville,41.633,70.333,Spartina peat,,2116-1064,-1.73,0.56,Redfield and Rubin (1962),2,1640,240
+Barnstable,41.700,70.317,Spartina peat,,476-0,-0.12,1.34,Redfield and Rubin (1962),2,190,150
+Barnstable,41.700,70.360,Spartina peat,,915-555,-0.33,1.34,Redfield and Rubin (1962),2,770,100
+Barnstable,41.700,70.360,Spartina peat,,642-0,-0.03,1.34,Redfield and Rubin (1962),2,400,100
+Barnstable,41.700,70.360,Spartina peat,,2044-1560,-4.74,1.34,Redfield and Rubin (1962),2,1880,100
+Barnstable,41.710,70.370,Spartina peat,,1568-488,-0.91,1.34,Redfield and Rubin (1962),2,1040,300
+Barnstable,41.710,70.370,Spartina peat,,2684-1174,-1.83,1.34,Redfield and Rubin (1962),2,1850,300
+Barnstable,41.710,70.370,Spartina peat,,2951-1539,-2.83,1.34,Redfield and Rubin (1962),2,2240,300
+Barnstable,41.710,70.370,Spartina peat,,4057-2469,-5.12,1.34,Redfield and Rubin (1962),2,3060,300
+Barnstable,41.730,70.320,Salt peat,,784-540,-1.63,1.12,Stuiver et al. (1963),3,710,80
+Barnstable,41.730,70.300,Salt peat,,480-0,-0.56,1.12,Stuiver et al. (1963),3,240,80
+Barnstable,41.730,70.320,Salt peat,,1231-743,-2.03,1.12,Stuiver et al. (1963),3,1060,100
+,,,,,,,,,,,
+Marine Limiting,,,,,,,,,,,
+Nantucket Sound,41.550,70.467,Mercenaria,0,3838-3394,-10.43,0.71,Gutierrez et al. (2003),4,3790,70
+Nantucket Sound,41.550,70.467,Mercenaria,0,3683-3203,-10.63,0.71,Gutierrez et al. (2003),4,3640,90
+Marthas Vineyard,41.300,71.000,C. vir,,10561-9405,-37.42,3.15,Oldale and O'Hara (1980),4,9300,250
+Marthas Vineyard,41.408,70.739,Mercenaria,,9726-8452,-27.65,0.75,Oldale and O'Hara (1980),4,7570,250
+Marthas Vineyard,41.317,70.922,shell hash,,5841-4867,-34.38,0.78,Oldale and O'Hara (1980),3,5150,200
+Marthas Vineyard,41.368,70.867,shell hash,,5722-3260,-26.75,0.75,Oldale and O'Hara (1980),3,4470,500
+Marthas Vineyard,41.443,70.722,shell hash,,3758-3318,-15.11,0.71,Oldale and O'Hara (1980),3,3710,80
+Marthas Vineyard,41.443,70.722,shell hash,,3597-3069,-14.61,0.71,Oldale and O'Hara (1980),3,3560,95
+Marthas Vineyard,41.243,70.927,Mercenaria,,1222-484,-32.17,0.77,Oldale and O'Hara (1980),4,1340,200
+Marthas Vineyard,41.302,70.992,C. vir,,11167-9901,-33.77,0.77,Oldale and O'Hara (1980),4,9740,250
+Marthas Vineyard,41.317,70.992,C. vir,,11201-9681,-35.78,0.78,Oldale and O'Hara (1980),4,9710,300
+Marthas Vineyard,41.303,70.992,C. vir,,11623-8895,-33.07,0.77,Oldale and O'Hara (1980),4,9470,500
+,,,,,,,,,,,
+Terrestrial Limiting,,,,,,,,,,,
+Centerville,41.633,70.333,Fresh peat,,6955-5607,-3.74,0.53,Emery et al. (1967),3,5500,300
+Falmouth,41.550,70.633,Fresh peat,,3975-3401,-4.74,0.53,Emery et al. (1967),3,3420,120
+Barnstable (Brewster),41.817,70.085,Fresh peat,,6174-4572,-8.52,3.14,Field et al. (1979),3,4700,300
+Nantucket Sound,41.583,70.383,plant fragments,-27.4,5468-5054,-8.12,0.70,Gutierrez et al. (2003),3,4600,50
+Nantucket Sound,41.583,70.400,Undiff peat,-26.8,4961-4727,-8.02,0.70,Gutierrez et al. (2003),3,4280,35
+Nauset Bay,41.840,69.970,Undiff peat,,2705-2059,-2.39,0.57,Redfield (1967),3,2300,105
+Nauset Bay,41.840,69.970,Undiff peat,,3975-3475,-4.46,0.57,Redfield (1967),3,3460,100
+Barnstable,41.730,70.380,Oak wood,,6395-4629,-4.85,0.54,Redfield and Rubin (1962),2,4860,350
+Barnstable,41.700,70.317,Fresh peat,,736-0,1.46,0.53,Redfield and Rubin (1962),3,500,150
+Barnstable,41.730,70.380,Fresh peat,,4230-2622,-3.11,0.22,Redfield and Rubin (1962),3,3150,300
+Centerville,41.633,70.333,chaemocypris log,,2707-1633,-2.00,0.26,Redfield and Rubin (1962),2,2130,200
+Centerville,41.633,70.333,Fresh peat,,2703-1421,-1.10,0.53,Redfield and Rubin (1962),3,2040,240
+Marthas Vineyard,41.450,70.937,Fresh peat,,9895-8417,-20.07,0.73,Oldale and O'Hara (1980),3,8230,300
+Marthas Vineyard,41.482,70.860,Fresh peat,,9028-7880,-16.28,0.72,Oldale and O'Hara (1980),3,7600,250
+,,,,,,,,,,,
+Connecticut,,,,,,,,,,,
+Index Points,,,,,,,,,,,
+Guildford,41.278,72.650,Sp,-10,1175-795,-1.61,0.63,Nydick et al. (1995),2,1070,80
+Hammock River,41.266,72.515,Sp/Ds,,1812-1422,-1.86,0.51,van de Plassche (1991),2,1710,60
+Barn Island,41.332,71.864,Sp/Jg,,434-0,-0.52,0.31,Donnelly et al. (2004a),2,265,30
+Barn Island,41.332,71.864,Sp/Jg,,256-0,-0.57,0.31,Donnelly et al. (2004a),2,15,40
+Barn Island,41.332,71.864,Sp/Jg,,428-0,-0.63,0.31,Donnelly et al. (2004a),2,240,35
+Barn Island,41.332,71.864,Sp/Jg,,476-292,-0.73,0.31,Donnelly et al. (2004a),2,305,40
+Barn Island,41.332,71.864,Sp,,479-307,-0.82,0.31,Donnelly et al. (2004a),2,330,35
+Barn Island,41.332,71.864,Sp,,643-509,-0.91,0.31,Donnelly et al. (2004a),2,540,40
+Barn Island,41.332,71.864,Sp,,622-466,-0.94,0.31,Donnelly et al. (2004a),2,475,40
+Barn Island,41.332,71.864,Sp,,650-524,-1.03,0.31,Donnelly et al. (2004a),2,570,35
+Branford,41.261,72.849,Ds,-18.1,3381-3221,-3.92,0.45,van de Plassche et al. (2002),2,3092,31
+Branford,41.250,72.860,Ds,-14.2,3018-2796,-3.08,0.45,van de Plassche et al. (2002),2,2814,34
+Branford,41.256,72.839,Ds,-15.8,2301-1995,-2.25,0.45,van de Plassche et al. (2002),2,2124,37
+Branford,41.251,72.856,Ds,-15.1,1536-1360,-1.57,0.45,van de Plassche et al. (2002),2,1560,40
+Branford,41.251,72.856,Ds,-15.5,1171-961,-1.20,0.45,van de Plassche et al. (2002),2,1133,37
+Guildford,41.269,72.681,Sa,-14.5,1240-964,-1.44,0.66,Nydick et al. (1995),2,1170,50
+Guildford,41.269,72.681,Sp,-10,511-307,-1.11,0.63,Nydick et al. (1995),2,370,60
+Guildford,41.278,72.650,Sp,-10,282-0,-0.77,0.63,Nydick et al. (1995),2,90,70
+Guildford,41.278,72.650,Sp,-10,296-0,-0.80,0.63,Nydick et al. (1995),2,160,60
+Guildford,41.277,72.641,Sp,-9.7,1166-738,-1.40,0.63,Nydick et al. (1995),2,1020,80
+Guildford,41.277,72.641,Sp,-10,1867-1547,-2.03,0.63,Nydick et al. (1995),2,1780,70
+Guildford,41.269,72.681,Sa,-12,282-0,-0.35,0.52,Nydick et al. (1995),2,100,70
+Guildford,41.269,72.681,Sa,-13.8,664-522,-0.73,0.52,Nydick et al. (1995),2,590,60
+Guildford,41.278,72.650,Sa,-13.8,268-0,-0.22,0.52,Nydick et al. (1995),2,10,60
+Guildford,41.278,72.650,Sa,-10,615-315,-0.43,0.52,Nydick et al. (1995),2,440,60
+Guildford,41.278,72.650,Sa,-13.8,680-508,-0.62,0.52,Nydick et al. (1995),2,600,80
+Guildford,41.277,72.641,Sa,-13.2,428-0,-0.35,0.52,Nydick et al. (1995),2,210,60
+Guildford,41.277,72.641,Sa,-10.8,722-532,-0.63,0.52,Nydick et al. (1995),2,660,70
+Guildford,41.277,72.641,Sa,-13.8,1821-1419,-1.48,0.52,Nydick et al. (1995),2,1720,70
+Hammock River,41.265,72.508,Ds,-14,498-306,-1.04,0.45,van de Plassche et al. (1998),2,340,50
+Hammock River,41.265,72.508,Ds,-14,1063-937,-1.48,0.45,van de Plassche et al. (1998),2,1100,30
+Hammock River,41.265,72.508,Ds,-13,616-502,-1.23,0.45,van de Plassche et al. (1998),2,500,30
+Hammock River,41.265,72.508,Ds,-15,1166-956,-1.39,0.45,van de Plassche et al. (1998),2,1120,30
+Hammock River,41.265,72.508,Ds,-26,505-319,-1.03,0.45,van de Plassche et al. (1998),2,380,30
+Hammock River,41.265,72.508,Ds,-13,296-0,-0.51,0.45,van de Plassche et al. (1998),2,170,40
+Hammock River,41.265,72.508,Sa,-14,510-320,-0.53,0.26,van de Plassche et al. (1998),2,390,30
+Hammock River,41.265,72.508,Sa,-13,647-497,-0.67,0.26,van de Plassche et al. (1998),2,520,50
+Hammock River,41.265,72.508,Sa,-13,1410-1296,-1.26,0.26,van de Plassche et al. (1998),2,1460,40
+Hammock River,41.265,72.508,Sa,-22,1371-1179,-1.09,0.26,van de Plassche et al. (1998),2,1370,50
+Hammock River,41.265,72.508,Sa,-14,534-342,-0.56,0.26,van de Plassche et al. (1998),2,440,30
+Hammock River,41.265,72.508,Sa,-4,488-308,-0.27,0.26,van de Plassche et al. (1998),2,340,40
+Hammock River,41.265,72.508,Sa,-14,648-502,-0.41,0.26,van de Plassche et al. (1998),2,530,50
+Hammock River,41.265,72.508,Sa,-15,280-0,0.17,0.26,van de Plassche et al. (1998),2,130,40
+Hammock River,41.265,72.508,Sa,-14,304-0,-0.07,0.26,van de Plassche et al. (1998),2,180,40
+Hammock River,41.266,72.515,Sp,,1823-1617,-2.15,0.53,van de Plassche (1991),2,1800,35
+Hammock River,41.266,72.515,Sa,,1895-1733,-1.57,0.76,van de Plassche (1991),2,1890,30
+Gulf Pond,41.200,73.000,Salt peat,,1863-1019,-1.87,0.97,Cinquemani et al. (1982),3,1515,185
+Indian River,41.200,73.000,Salt peat,,4236-3702,-5.27,0.97,Cinquemani et al. (1982),3,3645,95
+Indian River,41.200,73.000,Salt peat,,4089-3473,-4.17,0.97,Cinquemani et al. (1982),3,3500,120
+Indian River,41.200,73.000,Salt peat,,3372-2876,-3.20,0.97,Cinquemani et al. (1982),3,2970,100
+Guildford,41.277,72.641,Plant frags,-14.3,1288-978,-1.79,0.78,Nydick et al. (1995),1,1220,80
+Oyster Creek,41.260,72.350,Salt peat,,5909-4983,-6.87,0.84,Cinquemani et al. (1982),3,4780,175
+Oyster Creek,41.260,72.350,Salt peat,,4856-3638,-6.37,0.84,Cinquemani et al. (1982),3,3850,235
+Oyster Creek,41.260,72.350,Salt peat,,5580-4648,-6.57,0.84,Cinquemani et al. (1982),3,4460,155
+,,,,,,,,,,,
+Terrestrial,,,,,,,,,,,
+Mystic,41.370,71.950,Undiff peat,,3608-2348,-3.60,0.40,Redfield and Rubin (1962),3,2850,260
+Kittam's Point,41.250,72.810,Wood,,1066-574,0.36,0.48,Bloom (1963),2,910,120
+New Haven,41.300,72.750,Undiff peat,,7242-6304,-9.08,0.51,Redfield and Rubin (1962),3,5900,200
+Stiles Brickyard,41.340,72.880,Wood,,7982-7338,-4.37,0.56,Bloom (1963),2,6810,170
+Guildford,41.269,72.681,Wood,,899-533,-0.08,0.48,Nydick et al. (1995),2,720,90
+Guildford,41.270,72.660,Wood,,1276-956,0.03,0.48,Bloom (1963),2,1180,80
+Hammock River,41.265,72.508,Sedge peat,,4569-4161,-3.80,0.22,van de Plassche et al. (1989),3,3950,60
+Hammock River,41.265,72.508,Sedge peat,,5031-4713,-4.93,0.22,van de Plassche et al. (1989),3,4295,45
+Hammock River,41.265,72.508,Sedge peat,,5581-5319,-5.97,0.22,van de Plassche et al. (1989),3,4700,40
+Hammock River,41.265,72.508,Sedge peat,,6267-5933,-7.28,0.23,van de Plassche et al. (1989),3,5300,60
+Hammock River,41.265,72.508,Sedge peat,,6881-6503,-7.35,0.23,van de Plassche et al. (1989),3,5880,70
+Hammock River,41.265,72.508,Sedge peat,,6436-6206,-8.48,0.23,van de Plassche et al. (1989),3,5520,60
+Hammock River,41.265,72.508,sedge peat,,5888-5062,-7.11,0.48,Bloom (1963),3,4780,130
+Hammock River,41.265,72.508,sedge peat,,4220-3478,-4.50,0.49,Bloom (1963),3,3540,130
+Hammock River,41.265,72.508,sedge peat,,4149-3363,-3.60,0.49,Bloom (1963),3,3450,160
+Hammock River,41.265,72.508,sedge peat,,7248-6794,-9.69,0.50,Bloom (1963),3,6130,90
+Hammock River,41.265,72.508,sedge peat,,3437-2955,-1.56,0.51,Bloom (1963),3,3020,90
+Hammock River,41.265,72.508,sedge peat,,3685-3245,-2.27,0.50,Bloom (1963),3,3220,90
+Hammock River,41.265,72.508,Wood,,5899-5325,-4.77,0.50,Bloom (1963),2,4880,120
+Hammock River,41.160,72.310,Undiff peat,,8151-7673,-8.94,0.50,Bloom (1963),3,7060,100
+Hammock River,41.265,72.508,Sr,-26,306-0,0.43,0.17,van de Plassche et al. (1998),2,210,30
+Hammock River,41.265,72.508,Sr,-25,505-315,0.01,0.17,van de Plassche et al. (1998),2,370,40
+Hammock River,41.265,72.508,Sr,-22,1052-798,-0.26,0.17,van de Plassche et al. (1998),2,1020,40
+Hammock River,41.265,72.508,Sr,-25,1276-1076,-0.57,0.17,van de Plassche et al. (1998),2,1250,40
+Hammock River,41.265,72.508,Sr,-9,1381-1279,-0.42,0.16,van de Plassche et al. (1998),2,1410,40
+Hammock River,41.265,72.508,Sr,-28,1240-964,-0.26,0.17,van de Plassche et al. (1998),2,1170,50
+Hammock River,41.265,72.508,Sr,-27,1063-937,-0.48,0.17,van de Plassche et al. (1998),2,1100,30
+Hammock River,41.265,72.508,Sr,-27,428-0,0.36,0.17,van de Plassche et al. (1998),2,230,40
+Hammock River,41.265,72.508,Sr,-26,462-0,0.30,0.17,van de Plassche et al. (1998),2,240,50
+Hammock River,41.265,72.508,Sr,-27,426-0,0.22,0.17,van de Plassche et al. (1998),2,220,40
+Hammock River,41.265,72.508,Sr,-27,540-318,0.14,0.17,van de Plassche et al. (1998),2,430,50
+Hammock River,41.265,72.508,Sr,-13,535-317,0.09,0.17,van de Plassche et al. (1998),2,420,50
+Hammock River,41.265,72.508,Sr,-26,541-331,-0.00,0.17,van de Plassche et al. (1998),2,440,40
+Hammock River,41.265,72.508,Sr,-27,627-507,-0.08,0.17,van de Plassche et al. (1998),2,520,30
+Hammock River,41.265,72.508,Sr,-26,627-507,-0.14,0.17,van de Plassche et al. (1998),2,520,30
+Hammock River,41.265,72.508,Sr,-26,500-308,0.20,0.17,van de Plassche et al. (1998),2,350,50
+Hammock River,41.265,72.508,Sr,-26,634-334,-0.14,0.17,van de Plassche et al. (1998),2,480,50
+Menunketesuck River,41.280,72.480,Sedge peat,,6184-5940,-8.22,0.24,van de Plassche et al. (1989),3,5280,40
+Hammock River,41.266,72.515,Sr,,270-0,0.58,0.32,van de Plassche (1991),2,85,45
+Hammock River,41.266,72.515,Pa,,735-569,0.15,0.32,van de Plassche (1991),2,740,40
+Hammock River,41.266,72.515,Pa,,1715-1291,-0.40,0.30,van de Plassche (1991),2,1580,110
+Hammock River,41.266,72.515,Pa,,924-698,0.20,0.30,van de Plassche (1991),2,890,60
+,,,,,,,,,,,
+New York,,,,,,,,,,,
+Index Points,,,,,,,,,,,
+Cedar Pond Brook Marsh,41.225,73.967,Salt peat,,928-560,-0.76,0.81,Pardi et al. (1984),3,800,100
+Cedar Pond Brook Marsh,41.225,73.967,Salt peat,,4282-3640,-5.21,0.82,Pardi et al. (1984),3,3630,110
+Cedar Pond Brook Marsh,41.225,73.967,Salt peat,,1873-1415,-1.76,0.81,Pardi et al. (1984),3,1740,100
+Cedar Pond Brook Marsh,41.225,73.967,Salt peat,,2285-1607,-2.56,0.81,Pardi et al. (1984),3,1940,110
+Cedar Pond Brook Marsh,41.225,73.967,Salt peat,,2995-2367,-2.56,0.81,Pardi et al. (1984),3,2650,100
+Cedar Pond Brook Marsh,41.225,73.967,Salt peat,,3447-2951,-3.31,0.82,Pardi et al. (1984),3,3030,100
+Cedar Pond Brook Marsh,41.225,73.967,Salt peat,,2688-1898,-3.34,0.82,Pardi et al. (1984),3,2220,120
+Cedar Pond Brook Marsh,41.225,73.967,Salt peat,,3557-2979,-3.46,0.81,Pardi et al. (1984),3,3090,110
+Cedar Pond Brook Marsh,41.225,73.967,Salt peat,,3160-2462,-3.61,0.82,Pardi et al. (1984),3,2700,120
+Constitution Island,41.411,73.948,Salt peat,,5265-4423,-7.51,0.81,Pardi et al. (1984),3,423+,120
+Constitution Island,41.406,73.942,Salt peat,,5654-4892,-9.46,0.83,Pardi et al. (1984),3,4660,140
+Constitution Island,41.406,73.948,Salt peat,,2469-1823,-1.80,0.82,Pardi et al. (1984),3,2160,130
+Constitution Island,41.406,73.942,Salt peat,,2753-2315,-3.06,0.83,Pardi et al. (1984),3,2440,100
+Constitution Island,41.411,73.948,Salt peat,,2713-2117,-3.71,0.80,Pardi et al. (1984),3,2320,100
+Constitution Island,41.406,73.942,Salt peat,,3700-3084,-4.86,0.84,Pardi et al. (1984),3,3210,110
+Constitution Island,41.411,73.948,Salt peat,,4861-4317,-5.96,0.80,Pardi et al. (1984),3,4110,100
+Constitution Island,41.406,73.942,Salt peat,,4512-3782,-6.26,0.84,Pardi et al. (1984),3,3760,120
+Marlboro Marsh,41.611,73.966,Salt peat,,2942-1742,-3.11,0.80,Pardi et al. (1984),3,2330,240
+Marlboro Marsh,41.611,73.966,Salt peat,,3448-2872,-4.11,0.80,Pardi et al. (1984),3,3010,120
+Marlboro Marsh,41.611,73.966,Salt peat,,5583-4437,-5.81,0.80,Pardi et al. (1984),3,4390,220
+Marlboro Marsh,41.611,73.966,Salt peat,,5283-4441,-7.21,0.81,Pardi et al. (1984),3,4260,130
+Marlboro Marsh,41.611,73.966,Salt peat,,5580-4482,-8.31,0.83,Pardi et al. (1984),3,4570,110
+Oscawana I Tidal Marsh,41.229,73.931,Salt peat,,1997-1569,-2.51,0.80,Pardi et al. (1984),3,1870,90
+Oscawana I Tidal Marsh,41.229,73.931,Salt peat,,5580-4878,-6.61,0.80,Pardi et al. (1984),3,4570,120
+Oscawana I Tidal Marsh,41.229,73.931,Salt peat,,5448-4860,-6.81,0.80,Pardi et al. (1984),3,4500,100
+Roa Hook,41.299,73.947,Salt peat,,5586-4540,-7.64,0.83,Pardi et al. (1984),3,4450,200
+Roa Hook,41.299,73.947,Salt peat,,5580-3718,-8.81,0.81,Pardi et al. (1984),3,4120,350
+Roa Hook,41.299,73.947,Salt peat,,5580-4866,-9.31,0.80,Pardi et al. (1984),3,4550,130
+Roa Hook,41.299,73.947,Salt peat,,2844-2314,-1.95,0.80,Pardi et al. (1984),3,2490,120
+Roa Hook,41.299,73.947,Salt peat,,3799-2949,-4.02,0.80,Pardi et al. (1984),3,3170,170
+Roa Hook,41.292,73.947,Salt peat,,3828-2978,-4.31,0.81,Pardi et al. (1984),3,3190,160
+Roa Hook,41.299,73.947,Salt peat,,3816-2878,-4.81,0.80,Pardi et al. (1984),3,3140,170
+Roa Hook,41.299,73.947,Salt peat,,3840-3342,-5.56,0.81,Pardi et al. (1984),3,3320,110
+Roa Hook,41.299,73.947,Salt peat,,4812-3978,-6.76,0.81,Pardi et al. (1984),3,3910,130
+Stoney Point,41.244,73.968,Salt peat,,3564-2996,-3.21,0.80,Pardi et al. (1984),3,3100,110
+Stoney Point,41.244,73.968,Salt peat,,4798-3576,-5.81,0.80,Pardi et al. (1984),3,3740,200
+Piermont Tidal Marsh,41.025,73.900,Salt peat,,4797-3565,-5.66,0.81,Pardi et al. (1984),3,3730,200
+Piermont Tidal Marsh,41.025,73.900,Salt peat,,4421-3925,-7.71,0.82,Pardi et al. (1984),3,3790,90
+Piermont Tidal Marsh,41.025,73.900,Salt peat,,5586-4974,-8.35,0.81,Pardi et al. (1984),3,4610,110
+Piermont Tidal Marsh,41.025,73.900,Salt peat,,5589-4101,-9.37,0.83,Pardi et al. (1984),3,4300,280
+Piermont Tidal Marsh,41.025,73.900,Salt peat,,5710-5048,-9.71,0.83,Pardi et al. (1984),3,4720,120
+Piermont Tidal Marsh,41.025,73.900,Salt peat,,6441-5667,-11.16,0.82,Pardi et al. (1984),3,5320,170
+Piermont Tidal Marsh,41.025,73.900,Salt peat,,6555-5933,-11.16,0.84,Pardi et al. (1984),3,5480,140
+Piermont Tidal Marsh,41.025,73.900,Salt peat,,1563-1063,-1.46,0.81,Pardi et al. (1984),3,1420,120
+Piermont Tidal Marsh,41.025,73.900,Salt peat,,2306-1706,-3.06,0.81,Pardi et al. (1984),3,2000,110
+Piermont Tidal Marsh,41.025,73.900,Salt peat,,2742-1950,-2.81,0.80,Pardi et al. (1984),3,2300,160
+Piermont Tidal Marsh,41.025,73.900,Salt peat,,2958-2320,-4.56,0.81,Pardi et al. (1984),3,2550,140
+Piermont Tidal Marsh,41.025,73.900,Salt peat,,3388-2882,-4.56,0.81,Pardi et al. (1984),3,2990,100
+Piermont Tidal Marsh,41.025,73.900,Salt peat,,3455-2959,-5.26,0.81,Pardi et al. (1984),3,3050,100
+Piermont Tidal Marsh,41.025,73.900,Salt peat,,3921-3221,-6.74,0.82,Pardi et al. (1984),3,3320,140
+Piermont Tidal Marsh,41.025,73.900,Salt peat,,3975-3475,-4.86,0.81,Pardi et al. (1984),3,3460,100
+,,,,,,,,,,,
+Marine Limiting,,,,,,,,,,,
+Piermont,41.136,73.894,C. vir,,3412-3048,-11.40,0.12,Slagle et al. (2006),4,3510,35
+Piermont,41.093,73.886,C. vir,,2335-2003,-11.97,0.11,Slagle et al. (2006),4,2655,35
+Piermont,41.056,73.896,C. vir,,2728-2354,-6.57,0.12,Slagle et al. (2006),4,2955,45
+Piermont,41.056,73.896,C. vir,,3262-2864,-8.54,0.12,Slagle et al. (2006),4,3375,35
+Piermont,41.048,-73.896,C. vir,,3402-3022,-8.18,0.12,Slagle et al. (2006),4,3500,40
+Westway,40.726,74.011,Marine shell,,6189-5435,-23.25,0.59,Pardi et al. (1984),3,5540,160
+,,,,,,,,,,,
+Terrestrial Limiting,,,,,,,,,,,
+Constitution Island,41.406,73.948,basal peat,,7477-6287,-6.85,0.56,Pardi et al. (1984),3,6030,290
+Cedar Pond Brook Marsh,41.225,73.967,Wood,,3348-2768,-2.02,0.54,Pardi et al. (1984),2,2890,130
+Constitution Island,41.406,73.942,Fresh peat,,3559-1283,0.03,0.54,Pardi et al. (1984),1,2320,500
+Constitution Island,41.406,73.942,Peat,,1558-1146,-1.02,0.54,Pardi et al. (1984),3,1440,100
+Piermont Tidal Marsh,41.025,73.900,Wood,,4145-3489,-3.93,0.53,Pardi et al. (1984),1,3530,110
+Roa Hook,41.299,73.947,Wood,,5593-5049,-5.74,0.54,Pardi et al. (1984),2,4660,100
+Roa Hook,41.299,73.947,Wood,,6544-5928,-7.47,0.54,Pardi et al. (1984),2,5470,140
+Roa Hook,41.299,73.947,wood,,7419-6807,-9.67,0.54,Pardi et al. (1984),2,6230,120
+Roa Hook,41.299,73.947,Wood,,2719-2153,-1.22,0.54,Pardi et al. (1984),2,2360,100
+Westway,40.726,74.012,Peat,,11087-9681,-21.87,0.64,Pardi et al. (1984),3,9170,230
+Westway,40.725,74.011,Peat,,9477-8729,-18.18,0.63,Pardi et al. (1984),3,8190,130
+Westway,40.723,74.016,Peat,,10222-9486,-20.29,0.67,Pardi et al. (1984),3,8750,170
+Barclay,40.717,74.000,Wood,,7581-7183,-13.22,0.25,Olson and Broecker (1961),2,6500,100
+Westway,40.761,74.013,Organic silt,,11201-10525,-35.50,0.71,Pardi et al. (1984),3,9540,120
+Westway,40.741,74.011,Organic silt,,9395-8371,-23.36,0.65,Pardi et al. (1984),3,7920,200
+Westway,40.724,74.016,Organic silt,,11052-9432,-20.27,0.64,Pardi et al. (1984),3,8960,270
+Westway,40.726,74.016,Organic silt,,8991-8051,-20.44,0.62,Pardi et al. (1984),3,7650,190
+Westway,40.725,74.016,Organic silt,,10231-9309,-23.36,0.65,Pardi et al. (1984),3,8690,190
+Piermont Tidal Marsh,41.025,73.900,Peat,,8162-7294,-10.47,0.59,Pardi et al. (1984),3,6840,230
+,,,,,,,,,,,
+Long Island,,,,,,,,,,,
+Index Points,,,,,,,,,,,
+Caumsett Marsh,40.942,73.481,Salt peat,,926-548,-0.84,0.92,Pardi et al. (1984),3,780,120
+Caumsett Marsh,40.942,73.481,Salt peat,,904-482,-2.04,0.92,Pardi et al. (1984),3,660,120
+Caumsett Marsh,40.942,73.481,Salt peat,,953-515,-2.05,0.92,Pardi et al. (1984),3,760,140
+College Point Marsh,40.796,73.831,Salt peat,,6848-6008,-12.76,0.82,Pardi et al. (1984),3,5650,170
+College Point Marsh,40.796,73.831,Salt peat,,7469-7017,-18.11,0.82,Pardi et al. (1984),3,6370,100
+College Point Marsh,40.796,73.831,Salt peat,,9302-8644,-19.81,0.84,Pardi et al. (1984),3,8100,100
+College Point Marsh,40.796,73.831,Salt peat,,8393-7517,-17.76,0.83,Pardi et al. (1984),3,7120,240
+Eatons Neck,40.949,73.395,Salt peat,,1720-1292,-1.34,0.91,Cinquemani et al. (1982),3,1585,110
+Eatons Neck,40.949,73.395,Salt peat,,642-0,-0.64,0.92,Cinquemani et al. (1982),3,370,120
+Eatons Neck,40.949,73.395,Salt peat,,2752-2360,-4.84,0.92,Cinquemani et al. (1982),3,252+,85
+LI- south shore,41.023,72.603,Salt peat,,8637-8057,-16.98,0.79,Field et al. (1979),1,7585,125
+NY- Riverhead,40.900,72.617,Salt peat,,1175-565,-1.19,0.54,Redfield (1967),3,930,150
+Shelter Island,41.046,72.314,Salt peat,,1057-545,-1.23,0.55,Pardi et al. (1984),3,850,150
+Mt. Sinai Harbor,40.949,73.031,Salt peat,,2357-1903,-4.57,1.01,Cinquemani et al. (1982),3,2180,100
+Pelham Bay Park,40.868,73.793,Salt peat,,1927-1527,-1.99,0.92,Pardi et al. (1984),3,1800,90
+Roosevelt Ave,40.800,73.800,Salt peat,,9766-7982,-15.51,0.82,Pardi et al. (1984),3,7980,390
+Cedar Beach Suffolk Co,40.617,73.383,Salt peat,,6177-5585,-10.59,0.74,Pardi and Newman (1980),3,5060,120
+Wantagh- Nassau Co,40.650,73.517,Salt peat,,1172-732,-1.61,0.74,Pardi and Newman (1980),3,1020,100
+Wantagh- Nassau Co,40.650,73.517,Salt peat,,518-0,-0.76,0.74,Pardi and Newman (1980),3,300,90
+,,,,,,,,,,,
+Terrestrial Limiting,,,,,,,,,,,
+Gardiners Bay,41.192,72.192,Undiff peat,,7670-7260,-11.87,0.80,Field et al. (1979),3,6575,125
+Pelham Bay,40.870,73.790,Stump,,3452-2364,-1.88,0.16,Redfield and Rubin (1962),2,2830,220
+Riverhead,40.900,72.617,Fresh peat,,9398-8596,-2.77,0.42,Redfield (1967),3,8070,130
+Shelter Island,41.046,72.314,Peat,,4288-3560,-5.96,0.42,Pardi et al. (1984),3,3590,130
+South Long Island,40.748,72.447,Fresh peat,,6627-6131,-10.39,0.80,Field et al. (1979),3,5585,110
+NY/NJ Border,40.460,74.180,Organic sediment,,3207-2363,-0.88,0.16,Pardi et al. (1984),3,2700,150
+,,,,,,,,,,,
+New Jersey,,,,,,,,,,,
+Index Points,,,,,,,,,,,
+Brigantine City- NJ,39.426,74.390,Salt peat,,6951-6453,-12.95,0.77,Stuiver and Daddario (1963),3,5890,100
+Brigantine NWR,39.483,74.424,Salt peat,,3387-2929,-4.65,0.77,Stuiver and Daddario (1963),3,3000,90
+Brigantine NWR,39.479,74.419,Salt peat,,4517-3929,-7.35,0.77,Stuiver and Daddario (1963),3,3830,100
+Brigantine NWR,39.454,74.405,Salt peat,,5643-5315,-10.25,0.78,Stuiver and Daddario (1963),3,4760,80
+Brigantine NWR,39.485,74.426,Salt peat,,1922-1720,-2.55,0.77,Stuiver and Daddario (1963),3,1890,40
+Great Bay,39.561,74.349,Salt peat,,3475-2879,-4.05,0.77,Psuty et al. (1986),3,3035,120
+Great Bay,39.522,74.324,Salt peat,,5565-4843,-8.35,0.78,Psuty et al. (1986),3,4495,125
+Great Bay,39.522,74.324,Salt peat,,5264-4256,-8.35,0.78,Psuty et al. (1986),3,4175,145
+Sea Island City,39.200,74.700,Salt peat,,1177-559,-1.31,0.80,Cinquemani et al. (1982),3,920,160
+Sea Island City,39.200,74.700,Salt peat,,2715-2149,-2.81,0.80,Cinquemani et al. (1982),3,2345,100
+Sea Island City,39.200,74.700,Salt peat,,3204-2720,-4.76,0.80,Cinquemani et al. (1982),3,2760,100
+Sea Island City,39.200,74.700,Salt peat,,3981-3445,-5.51,0.81,Cinquemani et al. (1982),3,3440,110
+Sea Island City,39.200,74.700,Salt peat,,4816-4092,-7.36,0.81,Cinquemani et al. (1982),3,3960,110
+Sea lsland City,39.180,74.730,Salt peat,,2695-1993,-3.51,0.80,Pardi et al. (1984),3,2260,100
+Brigantine Marsh,39.420,74.354,Salt peat,-13.2,462-0,-1.70,0.68,Donnelly et al. (2004b),2,240,50
+Edwin B Forsythe NWR,39.495,74.418,Salt peat,-10.1,1263-1147,-2.43,0.28,This publication,1,1249,13
+Edwin B Forsythe NWR,39.495,74.418,Salt peat,-1.7,1407-1349,-2.70,0.28,This publication,1,1502,14
+Edwin B Forsythe NWR,39.495,74.418,Salt peat,-28.7,1228-1004,-2.23,0.28,This publication,1,1188,30
+Edwin B Forsythe NWR,39.495,74.418,Salt peat,-14.6,1379-1517,-2.93,0.28,This publication,1,1541,14
+Edwin B Forsythe NWR,39.495,74.418,Salt peat,-12,452-308,-1.52,0.28,This publication,1,319,13
+Edwin B Forsythe NWR,39.495,74.418,Salt peat,-14.4,1521-1383,-3.03,0.28,This publication,1,1550,25
+Edwin B Forsythe NWR,39.495,74.418,Salt peat,-13.78,926-794,-2.09,0.28,This publication,1,950,30
+Little Egg Inlet- NJ,39.412,74.123,Salt peat,,9239-7799,-30.15,1.53,Field et al. (1979),1,7600,300
+Great Bay,39.549,74.342,Salt peat,,3448-2972,-6.95,0.78,Psuty et al. (1986),3,3050,95
+Great Bay,39.510,74.320,Salt peat,,1257-1009,-1.45,0.31,Miller et al. (2009),1,1200,35
+Great Bay,39.510,74.320,Salt peat,,3156-2926,-5.11,0.31,Miller et al. (2009),1,2890,30
+Core 127,39.417,74.256,Salt peat,,8581-8401,-17.37,0.60,Miller et al. (2009),3,7690,50
+Core 127,39.417,74.256,Salt peat,,8171-7749,-17.62,0.60,Miller et al. (2009),3,7130,100
+Brigantine Marsh,39.420,74.354,Salt peat,-12.4,426-0,-0.85,0.68,Donnelly et al. (2004b),3,210,50
+Brigantine Marsh,39.420,74.354,Salt peat,-15.1,488-308,-0.96,0.68,Donnelly et al. (2004b),3,340,40
+Brigantine Marsh,39.420,74.354,Salt peat,-19.6,1386-1284,-2.60,0.68,Donnelly et al. (2004b),3,1420,40
+Brigantine Marsh,39.420,74.354,Salt peat,-15.4,617-319,-0.82,0.68,Donnelly et al. (2004b),3,450,50
+Whale Beach,39.184,74.671,Sa,,428-0,-0.94,0.79,Donnelly et al. (2001),2,230,40
+Whale Beach,39.184,74.671,Sa,,266-0,-0.57,0.79,Donnelly et al. (2001),2,60,40
+Whale Beach,39.184,74.671,Sa,,420-0,-0.55,0.79,Donnelly et al. (2001),2,210,40
+Whale Beach,39.184,74.671,Sa,,426-0,-0.66,0.79,Donnelly et al. (2001),2,220,40
+Whale Beach,39.184,74.671,Sa,,274-0,-0.66,0.79,Donnelly et al. (2001),2,110,40
+Whale Beach,39.184,74.671,Sa,,490-0,-0.89,0.79,Donnelly et al. (2001),2,290,50
+Whale Beach,39.184,74.671,Sa,,475-289,-0.79,0.79,Donnelly et al. (2001),2,300,40
+Cheesequake Marsh,40.400,74.300,Salt peat,,5741-5319,-10.95,0.86,Cinquemani et al. (1982),3,4820,95
+Whale Beach,39.184,74.671,Sa,,653-513,-1.27,0.79,Donnelly et al. (2001),2,560,50
+Cheesequake Marsh,40.400,74.300,Salt peat,,2457-1625,-3.32,0.85,Cinquemani et al. (1982),3,2080,160
+Cheesequake Marsh,40.400,74.300,Salt peat,,1510-738,-2.62,0.85,Cinquemani et al. (1982),3,1210,185
+Cheesequake Marsh,40.400,74.300,Salt peat,,2306-1572,-2.85,0.85,Cinquemani et al. (1982),3,1960,130
+Island Beach,39.803,74.094,Salt peat,,6883-5947,-10.38,0.67,Miller et al. (2009),3,5625,200
+,,,,,,,,,,,
+Marine Limiting,,,,,,,,,,,
+Rainbow Island,39.305,74.585,Elphidium spp.,,2235-1921,-4.54,0.18,Miller et al. (2009),4,2580,30
+Rainbow Island,39.305,74.585,Elphidium spp.,,2646-2314,-5.15,0.18,Miller et al. (2009),4,2880,30
+Rainbow Island,39.305,74.585,Elphidium spp.,,3658-3376,-6.98,0.19,Miller et al. (2009),4,3770,40
+Rainbow Island,39.304,74.588,Elphidium spp.,,1957-1561,-3.60,0.18,Miller et al. (2009),4,2330,70
+Rainbow Island,39.304,74.588,Elphidium spp.,,2720-2340,-5.18,0.19,Miller et al. (2009),4,2960,70
+Cheesequake Marsh,40.439,74.273,Marine shell,,5446-3122,-10.29,0.59,Psuty et al. (1986),3,4330,460
+,,,,,,,,,,,
+Terrestrial Limiting,,,,,,,,,,,
+Great Bay,39.549,74.342,Undiff peat,,7933-6477,-7.89,0.55,Psuty et al. (1986),3,6380,355
+Great Bay,39.510,74.320,Undiff peat,,8287-8027,-7.14,0.19,Miller et al. (2009),3,7340,35
+Island Beach,39.803,74.094,Undiff peat,,5442-4976,0.40,0.18,Miller et al. (2009),3,4532,58
+Core 3,39.664,74.099,Undiff peat,,10242-9502,-3.80,1.09,Miller et al. (2009),3,8800,170
+Cheesequake Marsh,40.400,74.300,Undiff peat,,8508-7756,-11.24,0.59,Cinquemani et al. (1982),3,7320,185
+Cheesequake Marsh,40.439,74.273,Cedar peat,,7930-7020,-10.99,0.59,Psuty et al. (1986),2,6610,215
+Cheesequake Marsh,40.439,74.273,Undiff peat,,9087-8163,-11.79,0.59,Psuty et al. (1986),3,7735,195
+Cheesequake Marsh,40.435,74.281,Cedar peat,,7413-6403,-7.59,0.59,Psuty et al. (1986),2,6020,215
+Union Beach,40.446,74.161,Undiff peat,,897-497,-0.59,0.58,Psuty et al. (1986),3,660,110
+Union Beach,40.446,74.161,Undiff peat,,3201-2363,-0.54,0.58,Psuty et al. (1986),3,2695,145
+,,,,,,,,,,,
+Inner Delaware,,,,,,,,,,,
+Index Points,,,,,,,,,,,
+Leipsic River,39.253,75.460,Salt peat,,1055-727,-1.51,0.79,Nikitina et al. (2000),1,970,80
+Leipsic River,39.251,75.469,Salt peat,,1232-960,-2.81,0.79,Nikitina et al. (2000),1,1160,50
+Leipsic River,39.429,75.457,Salt peat,,1857-1543,-3.13,0.79,Nikitina et al. (2000),1,1770,60
+Leipsic River,39.251,75.469,Salt peat,,2302-1818,-3.14,0.79,Nikitina et al. (2000),1,2030,80
+Leipsic River,39.249,75.469,Salt peat,,2308-1870,-2.79,0.79,Nikitina et al. (2000),1,2070,80
+Leipsic River,39.235,75.436,Salt peat,,3244-2810,-5.25,0.79,Nikitina et al. (2000),1,2880,70
+Leipsic River,39.248,75.469,Salt peat,,3676-3452,-5.66,0.79,Nikitina et al. (2000),1,3320,40
+Leipsic River,39.243,75.442,Salt peat,,3865-3483,-6.86,0.79,Nikitina et al. (2000),1,3430,70
+Leipsic River,39.246,75.470,Salt peat,,3861-3641,-8.54,0.79,Nikitina et al. (2000),1,3485,40
+Leipsic River,39.247,75.469,Salt peat,,3912-3694,-7.23,0.79,Nikitina et al. (2000),1,3530,40
+Leipsic River,39.247,75.469,Salt peat,,4084-3900,-6.61,0.79,Nikitina et al. (2000),1,3660,30
+Port Mahon,39.125,75.321,Salt peat,,4851-4299,-8.31,0.85,Belknap (1975),3,4090,100
+Leipsic River,39.246,75.411,Salt peat,,5318-4872,-11.52,0.79,Nikitina et al. (2000),1,4490,80
+Port Mahon,39.125,75.321,Salt peat,,2307-1721,-5.18,0.58,Marx (1981),3,2020,110
+Port Mahon,39.180,75.403,Salt peat,,2739-2361,-6.06,0.60,Marx (1981),3,2490,80
+Slaughter Beach,38.905,75.296,Salt peat,,793-539,-1.36,0.85,Kraft (1976),3,720,80
+Smyrna,39.302,75.598,Salt peat,,1519-1059,-2.71,0.81,Rogers and Pizzuto (1994),3,1370,110
+Sheppards Island,38.926,75.322,Salt peat,,1813-1409,-2.37,0.85,Kraft (1976),3,1690,85
+Bowers,39.049,75.388,Salt peat,,2003-1743,-2.21,0.85,Belknap (1975),3,1952,45
+Slaughter Beach,38.886,75.265,Spartina,,2844-2356,-3.43,0.79,Belknap (1975),2,2560,95
+St Jones River,39.082,75.445,Organic sediment,-18.2,4835-4577,-9.14,0.80,Leorri et al. (2006),3,4170,40
+St Jones River,39.073,75.423,Organic sediment,-14.2,2988-2784,-7.34,0.80,Leorri et al. (2006),3,2790,40
+Bowers,39.052,75.390,Salt peat,,2036-1736,-4.50,0.80,Belknap (1975),3,1950,55
+Bowers,39.052,75.390,Spartina,,3348-3004,-6.02,0.85,Belknap (1975),2,2999,59
+Bowers,39.056,75.394,Salt peat,,6273-5723,-16.54,0.86,Belknap (1975),3,5205,110
+Sheppards Island,38.922,75.313,Salt peat,,6391-5905,-14.10,1.15,Belknap (1975),3,5345,110
+St Jones River,39.071,75.431,Organic sediment,-15.6,4781-4095,-6.54,0.80,Leorri et al. (2006),3,3930,80
+Bowers,39.051,75.394,Salt peat,,3691-3403,-5.85,0.81,Belknap (1975),3,3314,63
+,,,,,,,,,,,
+Marine Limiting,,,,,,,,,,,
+Offshore Bowers,39.087,75.228,Marine shell,,2428-1906,-11.50,0.52,Belknap (1975),3,2685,90
+Offshore Bowers,39.087,75.228,Marine shell,,2687-2141,-11.67,0.51,Belknap (1975),3,2855,90
+,,,,,,,,,,,
+Terrestrial Limiting,,,,,,,,,,,
+Smyrna,39.320,75.483,Peat,,7931-7497,-13.80,0.63,Belknap (1975),3,6835,115
+Sheppards Island,38.929,75.319,Peat,,508-0,1.07,0.61,Kraft (1976),3,285,75
+Port Mahon,39.136,75.403,Stump,,3972-3468,-5.48,0.60,Ramsey and Baxter (1996),2,3450,100
+Smyrna,39.243,75.584,Fresh peat,,4072-3574,-1.08,0.54,Rogers and Pizzuto (1994),3,3515,85
+Port Mahon,39.177,75.408,Peat,,3352-2870,-4.67,0.61,Belknap (1975),3,2945,95
+Bowers,39.056,75.394,Peat,,8978-8328,-20.79,0.65,Belknap (1975),3,7730,125
+St Jones River,39.082,75.445,Peat,-25,460-0,-0.63,0.52,Leorri et al. (2006),3,230,60
+St Jones River,39.090,75.458,Plant,-25.2,4376-3994,-7.13,0.52,Leorri et al. (2006),2,3790,40
+,,,,,,,,,,,
+Outer Delaware,,,,,,,,,,,
+Index Points,,,,,,,,,,,
+Horse Island,38.672,75.134,Salt peat,,426-0,-0.80,0.65,Nikitina et al. (2000),2,170,80
+Horse Island,38.672,75.134,Salt peat,,961-745,-1.52,0.65,Nikitina et al. (2000),2,960,50
+Offshore Rehoboth,38.649,75.021,Salt peat,,8545-8023,-20.19,0.72,Belknap (1975),3,7500,135
+Great Marsh,38.786,75.172,Salt peat,,274-0,-0.80,0.75,Ramsey and Baxter (1996),3,80,60
+Wolf Glade,38.764,75.097,Spartina,,496-0,-0.94,0.76,Ramsey and Baxter (1996),2,280,60
+Great Marsh,38.786,75.171,Salt peat,,725-539,-1.20,0.75,Ramsey and Baxter (1996),3,670,70
+Wolf Glade,38.765,75.099,Spartina,,892-512,-1.33,0.76,Ramsey and Baxter (1996),2,690,100
+Wolf Glade,38.764,75.098,Spartina,,897-555,-1.73,0.76,Ramsey and Baxter (1996),2,750,70
+Wolf Glade,38.768,75.106,Spartina,,900-558,-1.79,0.76,Ramsey and Baxter (1996),2,760,70
+Great Marsh,38.785,75.171,Salt peat,,969-689,-1.38,0.75,Ramsey and Baxter (1996),3,930,80
+Wolf Glade,38.764,75.098,Spartina,,1048-680,-1.15,0.76,Ramsey and Baxter (1996),2,930,90
+Great Marsh,38.786,75.172,Salt peat,,1052-690,-1.05,0.75,Ramsey and Baxter (1996),3,950,90
+Wolf Glade,38.761,75.096,Spartina,,1166-664,-1.55,0.76,Ramsey and Baxter (1996),2,940,120
+Wolf Glade,38.768,75.106,Spartina,,1170-682,-1.27,0.76,Ramsey and Baxter (1996),2,980,120
+Wolf Glade,38.764,75.097,Spartina,,1260-798,-1.48,0.76,Ramsey and Baxter (1996),2,1100,90
+Wolf Glade,38.764,75.097,Spartina,,1262-930,-1.94,0.76,Ramsey and Baxter (1996),2,1150,80
+Great Marsh,38.785,75.171,Salt peat,,1262-930,-1.29,0.75,Ramsey and Baxter (1996),3,1150,80
+Great Marsh,38.785,75.171,Salt peat,,1387-1175,-1.47,0.75,Ramsey and Baxter (1996),3,1370,60
+Great Marsh,38.785,75.171,Salt peat,,1712-1390,-1.75,0.75,Ramsey and Baxter (1996),3,1650,70
+Horse Island,38.670,75.130,Spartina,,772-530,-0.96,0.64,Belknap (1975),2,690,85
+Rehoboth Bay,38.645,75.072,Salt peat,,4786-3690,-6.40,0.66,Belknap (1975),3,3780,170
+Rehoboth Bay,38.637,75.069,Salt peat,,3805-2871,-4.58,0.72,Belknap (1975),3,3130,170
+Rehoboth Bay,38.645,75.072,Salt peat,,4241-3405,-5.78,0.71,Belknap (1975),3,3520,160
+Rehoboth Bay,38.645,75.072,Salt peat,,4822-3892,-5.91,0.76,Belknap (1975),3,3890,170
+Rehoboth Bay,38.669,75.070,Salt peat,,5991-5053,-9.23,0.73,Belknap (1975),3,4860,180
+Rehoboth Bay,38.669,75.068,Salt peat,,7459-6639,-13.68,0.67,Belknap (1975),3,6190,190
+Rehoboth Bay,38.669,75.068,Salt peat,,502-0,-1.00,0.72,Belknap (1975),3,250,140
+Rehoboth Bay,38.669,75.070,Salt peat,,630-0,-0.80,0.63,Belknap (1975),3,350,130
+Wolf Glade,38.753,75.119,Salt peat,-21.1,2038-1352,-4.33,0.58,Fletcher et al. (1993),3,1775,150
+Wolf Glade,38.754,75.120,Salt peat,-20.1,2302-1414,-4.05,0.58,Fletcher et al. (1993),3,1885,170
+Wolf Glade,38.754,75.120,Sa,-19.7,2451-1301,-2.40,0.65,Fletcher et al. (1993),2,1910,145
+Wolf Glade,38.754,75.116,Salt peat,-26.5,2699-1571,-3.98,0.58,Fletcher et al. (1993),3,2095,205
+Wolf Glade,38.754,75.120,Sp,-15.7,3903-3001,-5.96,0.58,Fletcher et al. (1993),2,3250,175
+Wolf Glade,38.755,75.116,Sp,-19.4,4380-3254,-4.93,0.58,Fletcher et al. (1993),2,3460,205
+Wolf Glade,38.754,75.116,Salt peat,-26.7,4800-3718,-8.08,0.59,Fletcher et al. (1993),3,3805,170
+Wolf Glade,38.760,75.100,Spartina,,1043-677,-1.90,0.81,Belknap (1975),2,920,90
+Wall Island,38.802,75.204,Salt peat,,2300-1706,-3.91,0.81,Belknap (1975),3,1990,100
+Lewes,38.778,75.174,Salt peat,,2713-2127,-5.07,0.81,Belknap (1975),3,2330,100
+Wolf Glade,38.753,75.119,Sp,,3578-2720,-6.38,0.58,Fletcher et al. (1993),2,2945,190
+Wolf Glade,38.753,75.119,Salt peat,,3829-2849,-7.01,0.58,Fletcher et al. (1993),3,3130,200
+Wolf Glade,38.753,75.119,Salt peat,,3890-2880,-6.68,0.58,Fletcher et al. (1993),3,3195,200
+Wolf Glade,38.753,75.119,Salt peat,,4283-3271,-7.31,0.58,Fletcher et al. (1993),3,3465,185
+Wolf Glade,38.756,75.117,Salt peat,,4082-3840,-7.68,0.59,Fletcher et al. (1993),3,3630,40
+Wolf Glade,38.753,75.119,Salt peat,,4522-3404,-7.38,0.58,Fletcher et al. (1993),3,3620,215
+Wolf Glade,38.756,75.117,Sp,,4838-3728,-8.38,0.59,Fletcher et al. (1993),2,3870,200
+Wolf Glade,38.756,75.117,Salt peat,,4820-3836,-8.98,0.59,Fletcher et al. (1993),3,3860,175
+Wolf Glade,38.754,75.116,Jg,,4961-4453,-9.08,0.59,Fletcher et al. (1993),2,4210,85
+Wolf Glade,38.756,75.117,Sp/Ds,,5574-4574,-9.78,0.59,Fletcher et al. (1993),2,4420,170
+Cape Henlopen,38.783,75.078,Sa,,7561-6945,-16.52,0.64,Ramsey and Baxter (1996),2,6360,140
+Cape Henlopen,38.785,75.094,Salt peat,,8327-7510,-19.46,0.77,Belknap (1975),3,7050,220
+,,,,,,,,,,,
+Marine Limiting,,,,,,,,,,,
+Rehoboth Bay,38.669,75.070,Mercenaria,,1941-1259,-6.83,0.60,Belknap (1975),4,2180,150
+Rehoboth Bay,38.669,75.068,Cyrtopleura/Tagelus,,2660-1670,-6.86,0.60,Belknap (1975),4,2630,190
+Offshore Rehoboth,38.663,75.058,Unidentified Shells,,3208-2722,-8.91,0.53,Ramsey and Baxter (1996),3,3310,90
+Rehoboth Beach,38.756,75.082,C. vir,,1801-917,-7.32,0.60,Belknap (1975),4,1950,200
+Rehoboth Beach,38.756,75.082,Unidentified Shells,,3042-2108,-8.43,0.80,Belknap (1975),3,3010,180
+,,,,,,,,,,,
+Terrestrial Limiting,,,,,,,,,,,
+Offshore Rehoboth,38.663,75.050,Wood,,7407-6885,-10.86,0.51,Ramsey and Baxter (1996),2,6220,90
+Lewes,38.789,75.159,Undiff peat,,532-0,-0.18,0.59,Belknap (1975),3,330,90
+Lewes,38.781,75.174,Undiff peat,,2849-2363,-4.08,0.59,Belknap (1975),3,2580,95
+Wolf Glade,38.754,75.116,Sc/Sr,-26.8,5289-4665,-7.98,0.54,Fletcher et al (1993),2,4350,85
+Wolf Glade,38.755,75.116,Fresh peat,-26.6,5995-4833,-8.88,0.54,Fletcher et al (1993),1,4745,245
+,,,,,,,,,,,
+Inner Chesapeake,,,,,,,,,,,
+Index Points,,,,,,,,,,,
+Blackwater,38.400,76.100,Salt peat,,2846-2208,-3.64,0.34,Cinquemani et al. (1982),3,2485,125
+Blackwater,38.400,76.100,Salt peat,,3240-2334,-4.12,0.33,Cinquemani et al. (1982),3,2650,180
+Blackwater,38.400,76.100,Salt peat,,3357-2730,-3.34,0.34,Cinquemani et al. (1982),3,2835,140
+Blackwater,38.400,76.100,Salt peat,,4436-3729,-5.57,0.35,Cinquemani et al. (1982),3,3745,120
+Radcliffe Creek,39.000,76.100,Salt peat,,1411-795,-1.92,0.33,Cinquemani et al. (1982),3,1230,155
+Radcliffe Creek,39.000,76.100,Salt peat,,4059-3265,-5.17,0.35,Cinquemani et al. (1982),3,3365,145
+Radcliffe Creek,39.000,76.100,Salt peat,,5465-4855,-10.87,0.36,Cinquemani et al. (1982),3,4505,115
+,,,,,,,,,,,
+Marine Limiting,,,,,,,,,,,
+Patuxtent River,38.331,76.378,Shell,-1.37,296-111,-10.27,0.67,Colman et al. (2002),3,580,35
+Patuxtent River,38.331,76.378,Shell,-1.18,627-429,-10.40,0.67,Colman et al. (2002),3,905,60
+Patuxtent River,38.331,76.378,Shell,-0.41,543-418,-11.02,0.67,Colman et al. (2002),3,860,40
+Patuxtent River,38.331,76.378,Shell,-7.57,871-665,-11.32,0.67,Colman et al. (2002),3,1210,45
+Patuxtent River,38.331,76.378,Shell,-5.35,491-315,-9.77,0.67,Colman et al. (2002),3,780,40
+Patuxtent River,38.331,76.378,Shell,-1.25,476-295,-10.06,0.67,Colman et al. (2002),3,750,45
+Patuxtent River,38.331,76.378,Shell,-0.91,436-246,-10.34,0.67,Colman et al. (2002),3,675,45
+Town Point,38.544,76.427,Shell,-0.14,725-471,-25.63,0.67,Colman et al. (2002),3,1010,85
+Town Point,38.544,76.427,Shell,-0.59,355-119,-25.73,0.67,Colman et al. (2002),3,605,40
+Town Point,38.544,76.427,Forams,-2.14,921-638,-26.33,0.67,Colman et al. (2002),3,1220,80
+Town Point,38.544,76.427,Forams,-2.1,1014-682,-26.83,0.67,Colman et al. (2002),3,1310,80
+Town Point,38.544,76.427,Forams,-2.08,905-633,-26.95,0.67,Colman et al. (2002),3,1200,75
+Town Point,38.544,76.427,Forams,-2.04,894-633,-27.23,0.67,Colman et al. (2002),3,1190,50
+Town Point,38.544,76.427,Forams E.e.,,957-299,-27.23,0.67,Colman et al. (2002),4,1050,180
+Town Point,38.544,76.427,Forams E.s.,-2.54,1251-541,-27.23,0.67,Colman et al. (2002),4,1320,195
+Town Point,38.544,76.427,Shell,-0.24,1875-1492,-27.83,0.67,Colman et al. (2002),3,2100,80
+Town Point,38.544,76.427,Forams E.e,-2.18,1771-1562,-28.03,0.67,Colman et al. (2002),4,2090,30
+Town Point,38.544,76.427,Forams E.s.,-2.3,1809-1529,-28.03,0.67,Colman et al. (2002),4,2090,55
+Town Point,38.544,76.427,Forams,-2.07,973-674,-28.13,0.67,Colman et al. (2002),3,1290,75
+Town Point,38.544,76.427,Shell,0.32,1580-1251,-28.13,0.67,Colman et al. (2002),3,1850,80
+Town Point,38.544,76.427,Forams,-1.39,1847-1506,-28.33,0.67,Colman et al. (2002),3,2090,70
+Town Point,38.544,76.427,Forams,-0.97,2418-2049,-28.45,0.67,Colman et al. (2002),3,2570,70
+Town Point,38.544,76.427,Gastropod,-0.07,857-542,-29.03,0.67,Colman et al. (2002),3,1130,80
+Town Point,38.544,76.427,Shell,,413-143,-26.15,0.67,Colman et al. (2002),3,640,50
+Town Point,38.544,76.427,Shell,,788-638,-27.54,0.67,Colman et al. (2002),3,1160,40
+Town Point,38.544,76.427,Shell,,1677-1403,-28.62,0.67,Colman et al. (2002),3,1980,50
+Town Point,38.538,76.430,Shell,-0.72,366-142,-23.11,0.67,Colman et al. (2002),3,625,35
+Town Point,38.538,76.430,Shell,-1.04,266-0,-23.88,0.67,Colman et al. (2002),3,535,35
+Town Point,38.538,76.430,Shell,-0.4,516-332,-24.20,0.67,Colman et al. (2002),3,815,45
+Town Point,38.538,76.430,Shell,0.13,2886-2723,-26.14,0.67,Colman et al. (2002),3,3030,35
+Town Point,38.538,76.430,Forams,-0.81,3125-2703,-26.83,0.67,Colman et al. (2002),3,3090,90
+Town Point,38.538,76.430,Shell,-0.73,3446-2937,-26.88,0.67,Colman et al. (2002),3,3360,100
+Mayo,38.878,76.446,Shell,-2.68,1052-854,-9.32,0.66,Colman et al. (2002),3,1400,40
+Mayo,38.878,76.446,Shell,-3.36,893-723,-9.28,0.66,Colman et al. (2002),3,1260,30
+Mayo,38.878,76.446,Shell,-2.97,1174-958,-9.52,0.66,Colman et al. (2002),3,1520,40
+Mayo,38.878,76.446,Shell,-5.32,1375-1234,-10.18,0.66,Colman et al. (2002),3,1750,35
+Mayo,38.878,76.446,Shell,-2.43,1517-1332,-10.54,0.66,Colman et al. (2002),3,1880,35
+Mayo,38.878,76.446,Shell,-2.01,1615-1412,-10.94,0.66,Colman et al. (2002),3,1970,30
+Mayo,38.878,76.446,Shell,-1.79,1748-1505,-11.25,0.66,Colman et al. (2002),3,2050,45
+Mayo,38.878,76.446,Shell,-2.05,1696-1506,-11.33,0.66,Colman et al. (2002),3,2030,35
+Mayo,38.878,76.446,Shell,-2.29,1957-1700,-11.70,0.66,Colman et al. (2002),3,2230,50
+Mayo,38.878,76.446,Shell,-2.4,1996-1805,-11.92,0.66,Colman et al. (2002),3,2290,35
+Mayo,38.878,76.441,Shell,-3.14,2701-2332,-12.47,0.66,Colman et al. (2002),3,2780,75
+Mayo,38.878,76.441,Shell,-1.63,3849-3547,-13.90,0.66,Colman et al. (2002),3,3760,55
+Mayo,38.879,76.440,Shell,-1.3,4769-4422,-14.40,0.77,Colman et al. (2002),3,4410,45
+Mayo,38.879,76.440,Shell,-2.02,5719-5471,-14.75,0.77,Colman et al. (2002),3,5240,55
+Mayo,38.879,76.440,Oyster,-2.75,5832-5598,-14.75,0.77,Colman et al. (2002),4,5340,40
+Mayo,38.879,76.440,Oyster,-3.52,6628-6348,-15.33,0.77,Colman et al. (2002),4,6060,55
+Mayo,38.879,76.440,Shell,-4.26,7557-7160,-16.01,0.77,Colman et al. (2002),3,6850,110
+Mayo,38.879,76.440,Oyster,-4.66,7735-7564,-16.26,0.77,Colman et al. (2002),4,7180,40
+Mayo,38.887,76.392,Shell,-0.65,121-0,-28.06,0.66,Colman et al. (2002),3,320,60
+Mayo,38.887,76.392,Shell,-0.04,124-0,-28.56,0.66,Colman et al. (2002),3,325,60
+Mayo,38.887,76.392,Shell,-0.4,52-0,-29.17,0.66,Colman et al. (2002),3,325,30
+Mayo,38.887,76.392,Shell,-0.6,278-0,-29.88,0.66,Colman et al. (2002),3,555,35
+Mayo,38.887,76.392,Shell,-0.87,471-273,-30.54,0.66,Colman et al. (2002),3,725,55
+Mayo,38.887,76.392,Shell,-1.03,883-555,-31.71,0.66,Colman et al. (2002),3,1150,85
+Mayo,38.887,76.392,Shell,-0.87,311-139,-30.10,0.66,Colman et al. (2002),3,610,30
+Mayo,38.887,76.392,Shell,-0.57,464-299,-30.83,0.66,Colman et al. (2002),3,745,35
+Mayo,38.887,76.392,Shell,-0.68,780-634,-31.69,0.66,Colman et al. (2002),3,1150,40
+Mayo,38.887,76.392,Shell,-1.29,880-701,-31.99,0.66,Colman et al. (2002),3,1240,30
+Mayo,38.887,76.392,Shell,-0.9,1251-1064,-32.87,0.66,Colman et al. (2002),3,1600,35
+Mayo,38.887,76.392,Shell,-1.73,1728-1512,-33.79,0.66,Colman et al. (2002),3,2050,40
+Mayo,38.887,76.392,Shell,-0.77,1901-1704,-34.47,0.66,Colman et al. (2002),3,2210,35
+Mayo,38.887,76.392,Shell,-0.74,2290-2058,-34.94,0.66,Colman et al. (2002),3,2500,35
+Mayo,38.887,76.392,Shell,-0.18,4440-4185,-35.34,0.66,Colman et al. (2002),3,4230,40
+Mayo,38.887,76.392,Shell,-0.7,6020-5781,-36.18,0.66,Colman et al. (2002),3,5530,40
+Mayo,38.887,76.392,Shell,-0.14,6208-5976,-37.45,0.67,Colman et al. (2002),3,5690,40
+Mayo,38.887,76.392,Shell,-0.08,6463-6280,-38.74,0.67,Colman et al. (2002),3,5960,40
+Mayo,38.887,76.392,Shell,0.02,6485-6290,-39.14,0.67,Colman et al. (2002),3,5980,40
+Mayo,38.887,76.392,Shell,-0.74,6801-6603,-41.54,0.67,Colman et al. (2002),3,6250,35
+Mayo,38.887,76.392,Shell,-3.73,6850-6649,-43.21,0.68,Colman et al. (2002),3,6290,35
+Mayo,38.887,76.392,Shell,-3.53,9457-9229,-44.10,0.68,Colman et al. (2002),3,8670,45
+Mayo,38.887,76.392,Oyster,-1.04,7298-7072,-44.10,0.68,Colman et al. (2002),4,6660,45
+Mayo,38.887,76.392,Shell,-1.49,7611-7448,-44.21,0.68,Colman et al. (2002),3,7050,40
+Mayo,38.887,76.392,Shell,-1.5,7663-7486,-44.36,0.68,Colman et al. (2002),3,7100,45
+Potomac River,38.028,76.220,Shell,0.1,276-0,-23.38,0.70,Colman et al. (2002),3,540,50
+Potomac River,38.028,76.220,Shell,,643-512,-24.20,0.68,Colman et al. (2002),3,990,40
+Potomac River,38.028,76.220,Gastropod,0.1,896-681,-26.06,0.68,Colman et al. (2002),3,1240,50
+Potomac River,38.028,76.220,Shell,0.01,266-0,-22.76,0.68,Colman et al. (2002),3,540,30
+Potomac River,38.028,76.220,Shell,-0.29,555-440,-23.56,0.68,Colman et al. (2002),3,885,35
+Potomac River,38.028,76.220,Shell,0.01,753-648,-24.06,0.68,Colman et al. (2002),3,1150,25
+Potomac River,38.028,76.220,Forams,-1.72,870-690,-24.24,0.68,Colman et al. (2002),3,1230,30
+Potomac River,38.028,76.220,Shell,0.1,1236-933,-24.92,0.68,Colman et al. (2002),3,1530,70
+Potomac River,38.028,76.220,Forams,-2.41,2723-1515,-25.26,0.68,Colman et al. (2002),3,2450,256
+Potomac River,38.028,76.220,Forams,-1.94,2280-1846,-25.87,0.68,Colman et al. (2002),3,2400,85
+Potomac River,38.031,76.215,Shell,-0.42,522-439,-24.16,0.68,Colman et al. (2002),3,855,25
+Potomac River,38.031,76.215,Shell,0.11,4296-3984,-25.83,0.68,Colman et al. (2002),3,4100,45
+Potomac River,38.031,76.215,Shell,-0.13,4798-4521,-27.69,0.68,Colman et al. (2002),3,4470,45
+Potomac River,38.031,76.215,Shell,0.14,4952-4627,-28.83,0.68,Colman et al. (2002),3,4590,55
+Potomac River,38.031,76.215,Shell,0.2,6698-6420,-29.72,0.68,Colman et al. (2002),3,6130,55
+Potomac River,38.031,76.215,Shell,0.18,7113-6746,-30.29,0.68,Colman et al. (2002),3,6430,65
+Potomac River,38.031,76.215,Shell,0.7,7171-6924,-30.96,0.68,Colman et al. (2002),3,6540,45
+Potomac River,38.031,76.215,Shell,-8.09,10144-9697,-30.96,0.68,Colman et al. (2002),3,9150,65
+Potomac River,38.031,76.215,Shell,-1.94,8853-8474,-31.55,0.68,Colman et al. (2002),3,8150,55
+Potomac River,38.031,76.215,Shell,0.37,7666-7446,-31.88,0.68,Colman et al. (2002),3,7080,60
+Potomac River,38.031,76.215,Shell,-7.27,9802-9460,-33.49,0.69,Colman et al. (2002),3,8930,65
+Potomac River,38.031,76.215,Shell,-9.66,10504-9963,-33.57,0.69,Colman et al. (2002),3,9400,100
+Potomac River,38.053,76.221,Shell,-7.57,10393-9958,-22.72,0.68,Colman et al. (2002),3,9350,70
+Potomac River,38.053,76.221,Shell,-10.62,10631-10414,-23.29,0.68,Colman et al. (2002),3,9670,50
+,,,,,,,,,,,
+Eastern Shore,,,,,,,,,,,
+Index Points,,,,,,,,,,,
+Oyster,37.287,75.917,Salt peat,,1398-1303,-1.35,0.26,Engelhart et al. (2009),1,1461,31
+Magothy Bay,37.145,75.946,Seed in salt peat,-27.8,2316-2152,-2.69,0.26,Engelhart et al. (2009),1,2213,18
+Magothy Bay,37.145,75.946,Salt peat,-21.1,1532-1416,-2.15,0.26,Engelhart et al. (2009),1,1598,14
+Boxtree Farm,37.396,75.867,Salt peat,-22.6,1518-1366,-1.62,0.26,Engelhart et al. (2009),1,1537,23
+Metompkin Island,37.750,75.560,Juncus peat,,5582-5048,-7.02,0.47,Finkelstein and Ferland (1987),2,4620,80
+Assawoman Island,37.810,75.520,Juncus peat,,4078-3700,-5.83,0.47,Finkelstein and Ferland (1987),2,3580,60
+Metompkin Island,37.750,75.560,Juncus peat,,2347-2003,-2.87,0.47,Finkelstein and Ferland (1987),2,2200,80
+Assawoman Island,37.810,75.520,Sa,,683-539,-1.11,0.44,Finkelstein and Ferland (1987),2,650,60
+Assawoman Island,37.810,75.520,Sa,,732-552,-0.80,0.44,Finkelstein and Ferland (1987),2,700,60
+Metomkin Island,37.750,75.560,Sa,,1261-967,-1.25,0.44,Finkelstein and Ferland (1987),2,1180,60
+Metomkin Island,37.750,75.560,Sa,,1719-1393,-1.88,0.44,Finkelstein and Ferland (1987),2,1660,70
+Magothy Bay,37.150,75.900,Sp,,1520-1182,-1.03,0.44,Finkelstein and Ferland (1987),2,1430,80
+Custis Neck,37.622,75.678,HM peat,,5303-4891,-8.46,0.47,van de Plassche (1990),3,4470,50
+Custis Neck,37.622,75.678,HM peat,,5286-4878,-8.42,0.47,van de Plassche (1990),3,4445,40
+Custis Neck,37.622,75.678,HM peat,,5279-4871,-8.00,0.47,van de Plassche (1990),3,4430,40
+,,,,,,,,,,,
+Marine Limiting,,,,,,,,,,,
+Parramore Island,37.580,75.650,C. vir,,397-0,-2.57,0.44,Finkelstein and Ferland (1987),4,600,60
+Parramore Island,37.580,75.650,C. vir,,1130-727,-1.66,0.44,Finkelstein and Ferland (1987),4,1380,90
+Parramore Island,37.580,75.650,C. vir,,2888-2342,-5.16,0.44,Finkelstein and Ferland (1987),4,2900,110
+Hog Island,37.430,75.760,C. vir,,226-0,-1.30,0.44,Finkelstein and Ferland (1987),4,450,50
+Hog Island,37.430,75.760,C. vir,,607-430,-1.40,0.44,Finkelstein and Ferland (1987),4,890,50
+Cobb Island,37.350,75.810,C. vir,,624-413,-1.99,0.44,Finkelstein and Ferland (1987),4,890,60
+Cobb Island,37.350,75.810,C. vir,,419-0,-1.54,0.44,Finkelstein and Ferland (1987),4,610,70
+,,,,,,,,,,,
+Terrestrial Limiting,,,,,,,,,,,
+Wachapreague,37.580,75.650,Undiff peat,,2767-2365,-1.92,0.53,Newman and Rusnak (1965),3,2550,70
+Wachapreague,37.580,75.650,Undiff peat,,6260-5592,-5.17,0.53,Newman and Rusnak (1965),3,5120,145
+Wachapreague,37.580,75.650,Undiff peat,,3835-2871,-3.73,0.54,Newman and Rusnak (1965),3,3160,195
+Wachapreague,37.580,75.650,Undiff peat,,3834-3464,-3.73,0.54,Newman and Rusnak (1965),3,3390,75
+Wachapreague,37.580,75.650,Undiff peat,,5284-4728,-6.26,0.53,Newman and Rusnak (1965),3,4350,75
+Magothy Bay,37.150,75.900,Wood,,1873-1415,0.10,0.10,Finkelstein and Ferland (1987),2,1740,100
+,,,,,,,,,,,
+Northern North Carolina,,,,,,,,,,,
+Index Points,,,,,,,,,,,
+Frisco,35.260,75.520,Salt peat,,310-0,-0.71,0.70,Horton et al. (2009),3,205,40
+Hatteras Island,35.230,75.680,Salt peat,-26.3,436-0,-0.86,0.54,Horton et al. (2009),3,250,40
+Hatteras Island,35.520,75.480,Salt peat,-22.49,456-0,-0.54,0.20,Horton et al. (2009),3,265,35
+Northern Outer Banks,35.970,75.660,Salt peat,-23,1548-1382,-1.78,0.20,Horton et al. (2009),3,1580,40
+Pamlico Sound,35.220,75.660,Salt peat,-26.6,630-496,-0.66,0.54,Horton et al. (2009),3,500,40
+Sand Point,35.880,75.680,Salt peat,-24.28,300-0,-0.56,0.20,Kemp (2009),1,185,30
+Sand Point,35.880,75.680,Salt peat,-27.27,927-727,-1.14,0.20,Kemp (2009),1,900,50
+Sand Point,35.880,75.680,Salt peat,-25.55,1521-1333,-1.84,0.54,Kemp (2009),1,1520,40
+Sand Point,35.880,75.680,Salt peat,-21.98,1986-1734,-2.28,0.20,Kemp (2009),1,1920,45
+Sand Point,35.880,75.680,Salt peat,-22.92,2151-1951,-2.38,0.20,Kemp (2009),1,2090,35
+Sand Point,35.880,75.680,Salt peat,-26.52,2599-2349,-2.70,0.20,Kemp (2009),1,2420,35
+Sand Point,35.880,75.680,Salt peat,-25.47,2715-2363,-3.00,0.20,Kemp (2009),1,2470,45
+Sand Point,35.880,75.680,Salt peat,-27.33,461-305,-0.69,0.20,Kemp (2009),1,315,25
+Sand Point,35.880,75.680,Salt peat,-26.67,632-512,-0.81,0.20,Kemp (2009),1,535,30
+Sand Point,35.880,75.680,Salt peat,-27,917-743,-1.26,0.20,Kemp (2009),1,910,30
+Sand Point,35.880,75.680,Salt peat,-14.08,964-800,-1.40,0.20,Kemp (2009),1,1000,25
+Sand Point,35.880,75.680,Salt peat,-13.26,1057-933,-1.50,0.20,Kemp (2009),1,1080,30
+Sand Point,35.880,75.680,Salt peat,-13.4,1230-1006,-1.71,0.20,Kemp (2009),1,1190,30
+Sand Point,35.880,75.680,Salt peat,-13.28,1539-1413,-1.99,0.20,Kemp (2009),1,1600,25
+Sand Point,35.880,75.680,Salt peat,-13.78,2287-2003,-2.50,0.20,Kemp (2009),1,2120,25
+Sand Point,35.880,75.680,Salt peat,-20.65,2849-2543,-2.67,0.20,Kemp (2009),1,2620,45
+Kitty Hawk,36.050,75.700,Salt peat,-24.6,11231-10889,-30.37,1.10,Mallinson et al. (2005),1,9720,40
+Kitty Hawk,36.050,75.700,Salt peat,-25.48,11603-11235,-30.37,1.10,Mallinson et al. (2005),1,9930,45
+Kitty Hawk,36.050,75.710,Salt peat,-14.64,11062-10576,-35.76,1.10,Mallinson et al. (2005),1,9460,40
+Buxton,35.260,75.520,Salt peat,-25.1,286-0,-0.42,0.20,Horton et al. (2009),1,160,30
+Salvo,35.650,75.460,Salt peat,-27.43,306-0,-0.43,0.20,Horton et al. (2009),1,200,35
+Sand Point,35.880,75.680,Salt peat,-26.65,658-546,-0.77,0.20,Kemp (2009),1,615,35
+Sand Point,35.880,75.680,Salt peat,-27.45,2698-2346,-2.49,0.20,Kemp (2009),1,2410,35
+Sand Point,35.880,75.680,Salt peat,-27.97,1523-1067,-1.42,0.20,Kemp (2009),1,1390,110
+Sand Point,35.880,75.680,Salt peat,-28.58,2699-2345,-2.68,0.20,Kemp (2009),1,2410,40
+Kitty Hawk,36.020,75.720,Plant frags,-28,8853-8455,-15.37,1.10,Mallinson et al. (2005),3,7830,50
+,,,,,,,,,,,
+Marine Limiting,,,,,,,,,,,
+Albemarle Sound,36.110,76.070,Crassostrea shell,,6682-6273,-15.06,0.51,Horton et al. (2009),4,6140,80
+Albemarle Sound,36.110,76.070,Crassostrea shell,,2710-2331,-6.68,0.51,Horton et al. (2009),4,2880,60
+Albemarle Sound,36.110,76.070,Cyrtopleura/Tegalus shell,,4466-3839,-9.11,0.51,Horton et al. (2009),4,4200,100
+Albemarle Sound,36.110,76.070,Cyrtopleura shell,,5199-4817,-8.99,0.11,Horton et al. (2009),4,4810,40
+Albemarle Sound,36.050,75.690,Mactra/Mercenaria shell,,5755-5213,-11.88,0.11,Horton et al. (2009),4,5225,105
+Albemarle Sound,36.050,75.690,Ensis shell,,6174-5622,-13.37,0.11,Horton et al. (2009),4,5600,110
+Croatan Sound,35.890,75.720,Crassostrea shell,,4806-4295,-7.91,0.11,Horton et al. (2009),4,4480,80
+Croatan Sound,35.880,75.710,Macoma shell,-5.3,3584-3229,-6.01,0.51,Horton et al. (2009),4,3610,50
+Croatan Sound,35.920,75.750,Cyrtopleura shell,,4346-3496,-6.46,0.51,Horton et al. (2009),4,4010,150
+Croatan Sound,35.920,75.750,Crassostrea shell,,4843-4382,-7.95,0.11,Horton et al. (2009),4,4540,80
+Croatan Sound,35.920,75.740,Cyrtopleura shell,-0.6,3659-3316,-7.13,0.51,Horton et al. (2009),4,3670,50
+Croatan Sound,35.920,75.740,Nassarius shell,,3829-3449,-7.68,0.51,Horton et al. (2009),4,3810,50
+Croatan Sound,35.900,75.730,Mya shell,,4294-3833,-7.66,0.51,Horton et al. (2009),4,4130,60
+Nags Head,36.150,75.330,C. virginica dredge,0,9481-7708,-34.00,0.51,Emery et al. (1967),4,8130,400
+Pea Island,35.750,75.320,Donax shells,0,6176-5651,-24.00,0.51,Sears (1973),4,5618,100
+Pamlico Sound,35.450,75.490,Chione cancellata shell,0.1,1340-1066,-3.70,0.11,Horton et al. (2009),4,1760,40
+Pamlico Sound,35.470,75.530,Chione cancellata shell,-0.1,1697-1370,-4.94,0.51,Horton et al. (2009),4,2070,40
+Roanoke Sound,35.950,75.650,Articulated Crassostrea,,1534-1207,-4.16,0.11,Horton et al. (2009),4,1900,60
+Salvo,35.520,75.480,Chione cancellate,1.62,1500-1252,-2.91,0.51,Horton et al. (2009),4,1900,30
+SNL-113A-63,35.460,75.570,Petricola sp.,-2.4,8310-7997,-18.38,0.51,Stanton (2008),4,7780,45
+SNL-161C-90,35.460,75.570,C. virginica,-2.34,7158-6813,-13.38,0.51,Stanton (2008),4,6580,40
+SNL-163B-28,35.460,75.570,C. virginica,-2.7,8836-8409,-18.48,0.51,Stanton (2008),4,8210,40
+SNL-164D-93,35.460,75.570,C. virginica,-1.41,9717-9426,-24.98,0.51,Stanton (2008),4,8980,35
+,,,,,,,,,,,
+Terrestrial Limiting,,,,,,,,,,,
+Albemarle Sound,36.110,76.070,Wood,-30.7,7157-6749,-8.71,0.51,Horton et al. (2009),2,6060,60
+Buxton,35.160,75.310,Undiff peat,-27.77,472-302,0.53,0.51,Horton et al. (2009),3,315,35
+Broad Creek,35.850,75.620,Paleosol,,2750-2356,-1.78,0.51,Horton et al. (2009),3,2505,90
+Broad Creek,35.860,75.630,Paleosol,,4141-3577,-1.78,0.51,Horton et al. (2009),3,3545,100
+Broad Creek,35.870,75.640,Paleosol,,6312-5770,-1.93,0.51,Horton et al. (2009),3,5315,110
+Broad Creek,35.870,75.640,Fresh peat,,2703-2009,-1.79,0.51,Horton et al. (2009),3,2290,110
+,,,,,,,,,,,
+Southern North Carolina,,,,,,,,,,,
+Index Points,,,,,,,,,,,
+Tump Point,34.970,76.380,Salt peat,-14.35,493-315,-0.36,0.20,Kemp (2009),1,350,30
+Tump Point,34.970,76.380,Salt peat,-26.16,509-317,-0.47,0.20,Kemp (2009),1,385,35
+Tump Point,34.970,76.380,Salt peat,-25.6,921-743,-0.67,0.20,Kemp (2009),1,915,35
+Tump Point,34.970,76.380,Salt peat,-26.8,1313-1183,-0.97,0.20,Kemp (2009),1,1350,30
+Wilmington,34.100,78.000,Salt peat,0,3901-3387,-3.03,0.59,Cinquemani et al. (1982),3,3390,110
+Jarrett Bay,34.800,76.490,Salt peat,-25,1170-0,-0.73,0.25,Spaur and Snyder (1999),2,701,230
+Jarrett Bay,34.800,76.490,Salt peat,-23,2682-1712,-1.91,0.25,Spaur and Snyder (1999),2,2130,161
+Tump Point,34.970,76.380,Salt peat,-14.15,1689-1417,-1.19,0.20,Kemp (2009),1,1650,35
+Croatan National Forest,34.700,77.100,Salt peat,,1414-698,-0.77,0.58,Cinquemani et al. (1982),3,1180,190
+Croatan National Forest,34.700,77.100,Salt peat,,1890-1402,-1.27,0.58,Cinquemani et al. (1982),3,1735,110
+Wilmington,34.100,78.000,Salt peat,,1546-988,-0.93,0.59,Cinquemani et al. (1982),3,1385,130
+Wilmington,34.100,78.000,Salt peat,,3905-3389,-3.43,0.60,Cinquemani et al. (1982),3,3395,110
+Wilmington,34.100,78.000,Salt peat,,4240-3592,-4.23,0.60,Cinquemani et al. (1982),3,3600,115
+Wilmington,34.100,78.000,Salt peat,,4821-3845,-5.53,0.63,Cinquemani et al. (1982),3,3870,175
+Wilmington,34.100,78.000,Salt peat,,7156-5922,-8.03,0.60,Cinquemani et al. (1982),3,5675,250
+Tump Point,34.970,76.380,Salt peat,,635-509,-0.80,0.21,Kemp (2009),1,535,35
+Tump Point,34.970,76.380,Salt peat,,300-0,-0.55,0.21,Kemp (2009),1,185,30
+Tump Point,34.970,76.380,Salt peat,,901-693,-1.04,0.21,Kemp (2009),1,860,30
+Tump Point,34.970,76.380,Salt peat,,929-795,-1.15,0.21,Kemp (2009),1,960,30
+,,,,,,,,,,,
+Marine Limiting,,,,,,,,,,,
+Pamlico Sound,34.980,76.200,Argopecten,0.16,485-277,-2.25,0.11,Horton et al. (2009),4,835,30
+Pamlico Sound,34.900,76.260,Elphidium,-1.57,1262-991,-2.91,0.51,Culver et al. (2007),4,1670,30
+,,,,,,,,,,,
+Terrestrial Limiting,,,,,,,,,,,
+Cape Fear Arch,33.590,77.880,Undiff peat,,12637-10701,-24.64,0.51,Field et al. (1979),3,10000,300
+Jarrett Bay,34.800,76.490,Fresh peat,-27,4282-2880,-2.01,0.19,Spaur and Snyder (1999),3,3330,263
+Jarrett Bay,34.800,76.490,Fresh peat,-28,6856-6214,-2.43,0.19,Spaur and Snyder (1999),3,5710,142
+,,,,,,,,,,,
+Northern South Carolina,,,,,,,,,,,
+Index Points,,,,,,,,,,,
+Murrells Inlet,33.580,79.000,Salt peat,-24.4,5291-3975,-3.02,0.93,Gayes et al. (1992),1,4090,235
+Pee Dee River,33.400,79.200,Salt peat,,4434-3638,-3.41,0.95,Cinquemani et al. (1982),3,3690,150
+Pee Dee River,33.400,79.200,Salt peat,,2957-2363,-2.61,0.95,Cinquemani et al. (1982),3,2630,110
+Pee Dee River,33.400,79.200,Salt peat,,6737-6129,-6.60,0.95,Cinquemani et al. (1982),3,5625,130
+Pee Dee River,33.400,79.200,Salt peat,,7429-6555,-6.59,0.97,Cinquemani et al. (1982),3,6140,200
+Santee River,33.200,79.400,Salt peat,,5986-3924,-4.11,0.96,Cinquemani et al. (1982),3,4420,405
+Santee River,33.200,79.400,Salt peat,,3554-3068,-3.01,0.95,Cinquemani et al. (1982),3,3105,85
+Santee River,33.200,79.400,Salt peat,,3687-2959,-3.01,0.95,Cinquemani et al. (1982),3,3135,140
+Murrells Inlet,33.580,79.000,Salt peat,-22.6,4235-2961,-3.05,0.93,Gayes et al. (1992),1,3340,240
+Pee Dee River,33.400,79.200,Salt peat,,5644-5042,-4.81,0.95,Cinquemani et al. (1982),3,4680,115
+,,,,,,,,,,,
+Terrestrial Limiting,,,,,,,,,,,
+Santee River,33.200,79.400,Paleosol,,5583-4857,-3.22,0.65,Cinquemani et al. (1982),3,4550,150
+Murrells Inlet,33.580,79.000,Peat,-28.4,2732-1616,-0.11,0.63,Gayes et al. (1992),3,4550,150
+Murrells Inlet,33.580,79.000,Wood,-28.2,2919-2181,-0.21,0.63,Gayes et al. (1992),2,2510,140
+Murrells Inlet,33.580,79.000,Peat,-27.5,4148-3378,-2.13,0.63,Gayes et al. (1992),3,3460,155
+Murrells Inlet,33.580,79.000,Peat,-27.8,2748-2060,-0.12,0.63,Gayes et al. (1992),3,2355,140
+Murrells Inlet,33.580,79.000,Peat,-27.3,10272-8790,-1.43,0.63,Gayes et al. (1992),3,8575,270
+Murrells Inlet,33.580,79.000,Peat,-27.8,11059-9527,-2.51,0.63,Gayes et al. (1992),3,9035,245
+Murrells Inlet,33.580,79.000,Peat,-29,11762-9944,-2.57,0.63,Gayes et al. (1992),3,9510,285
+,,,,,,,,,,,
+Southern South Carolina,,,,,,,,,,,
+Index Points,,,,,,,,,,,
+Combahee River,32.700,80.700,Salt peat,,6401-5933,-4.10,1.02,Cinquemani et al. (1982),3,5400,115
+Combahee River,32.700,80.700,Salt peat,,6297-5753,-3.95,1.02,Cinquemani et al. (1982),3,5280,115
+Combahee River,32.700,80.700,Salt peat,,6743-6025,-3.58,1.02,Cinquemani et al. (1982),3,5620,140
+Combahee River,32.700,80.700,Salt peat,,3323-2781,-2.20,1.02,Cinquemani et al. (1982),3,2880,105
+Combahee River,32.700,80.700,Salt peat,,3895-3265,-2.68,1.02,Cinquemani et al. (1982),3,3325,130
+Combahee River,32.700,80.700,Salt peat,,5577-4577,-3.29,1.04,Cinquemani et al. (1982),3,4425,170
+Coosawatchie River,32.600,80.900,Salt peat,,2337-1897,-1.28,1.03,Cinquemani et al. (1982),3,2125,100
+Coosawatchie River,32.600,80.900,Salt peat,,907-533,-0.72,1.03,Cinquemani et al. (1982),3,730,105
+Savannah River,32.100,81.000,Salt peat,,3553-3003,-2.61,1.11,Cinquemani et al. (1982),3,3095,95
+Savannah River,32.100,81.000,Salt peat,,2718-2066,-2.41,1.11,Cinquemani et al. (1982),3,2320,110
+Savannah River,32.100,81.000,Salt peat,,2776-2156,-3.26,1.11,Cinquemani et al. (1982),3,2440,130
+Savannah River,32.100,81.000,Salt peat,,3637-2995,-1.96,1.11,Cinquemani et al. (1982),3,3130,125
+Cooper-Wando River,32.900,79.900,Salt peat,,3556-3004,-2.50,0.94,Cinquemani et al. (1982),3,3100,100
+Cooper-Wando River,32.900,79.900,Salt peat,,6175-5333,-4.40,0.96,Cinquemani et al. (1982),3,5005,140
+Cooper-Wando River,32.900,79.900,Salt peat,,5287-4525,-3.45,0.95,Cinquemani et al. (1982),3,4290,125
+Cooper-Wando River,32.900,79.900,Salt peat,,4838-4448,-2.85,0.95,Cinquemani et al. (1982),3,4135,65
+Cooper-Wando River,32.900,79.900,Salt peat,,2352-1882,-1.60,0.94,Cinquemani et al. (1982),3,2150,110
+Cooper-Wando River,32.900,79.900,Salt peat,,2740-2012,-1.85,1.00,Cinquemani et al. (1982),3,2330,140
+Cooper-Wando River,32.900,79.900,Salt peat,,5647-4973,-2.80,0.95,Cinquemani et al. (1982),3,4665,130
+Cooper-Wando River,32.900,79.900,Salt peat,,3678-2878,-2.00,0.94,Cinquemani et al. (1982),3,3100,155
+Cooper-Wando River,32.900,79.900,Salt peat,,6181-4665,-3.95,0.95,Cinquemani et al. (1982),3,4755,285
+,,,,,,,,,,,
+Terrestrial Limiting,,,,,,,,,,,
+Cooper-Wando River,32.900,79.900,Stump,,2311-1739,-0.20,0.62,Cinquemani et al. (1982),2,2035,105
+Cooper-Wando River,32.900,79.900,Stump,,3144-2464,-1.20,0.62,Cinquemani et al. (1982),2,2695,115
